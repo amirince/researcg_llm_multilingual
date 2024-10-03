@@ -1,0 +1,774 @@
+	Unnamed: 0	uid	sentence	sentiment	translation
+0	0	ml_sen_3	Mara paazhu mega mairananil ninnum ethil koodutal pratheeshikaruthu   1980 kalile rajanikanthinu padikkunnu verum chavaru mairan....	negative	Mara paazhu mega mairananil ninnum ethil koudal pratheeshikaruthu 1980 kalile rajanikanthinu padikkunnu verum chavaru mairan....
+1	1	ml_sen_7	Njan antarticail ninnanu malayalam ariyilla trailer adipoli	positive	Njan antarticail ninnanu malayalam ariyilla trailer adipoli
+2	2	ml_sen_8	Poojappura laalunni fans dislike adichu kuru potichitund	negative	Poojappura laalunni fans dislike adichu kuru potichitund
+3	3	ml_sen_10	Dislike adichaa ellaa makkalkum oru nadu viral salute ...... It's Lucifer daaa	negative	Dislike adichaa ellaa makkalkum oru nadu viral salute ...... It's Lucifer daaa
+4	4	ml_sen_11	Adipoli but movie engane indaavuo aavo..	neutral	Adipoli but movie engane indaavuo aavo..
+5	5	ml_sen_14	Nta ponnu muthu maniyeeee  lalataaaaaaaaaaa	positive	Nta ponnu muthu maniyeee lataaaaaaaaaaaaa
+6	6	ml_sen_15	4 Millon ayee makkale eattante pazhi paragavar thalayil mundittu trailor kandukanum	negative	4 Millon ayee makkale eattante pazhi paragavar thalayil mundittu trailor kandukanum
+7	7	ml_sen_18	Ente ponnu mammoooka mass item veendum..bgm aanegil onnum choikandaa porichu	positive	Ente ponnu mammoooka mass item veendum..bgm aanegil onnum choikandaa porichu
+8	8	ml_sen_21	Malayala cinema record thkarkan varunuu athiradi mass movie abrhaminte santhathikal	positive	Malayala cinema record tukarkan varunnu athiradi mass movie abrahaminte santhathikal
+9	9	ml_sen_22	191 k likes 118 aayallo.. ithenthu marimayaam ...lalapikkal ude kali aano	negative	191 k likes 118 aayallo.. ithenthu marimayaam ...lalapikkal ude kali aano
+10	10	ml_sen_23	Lucifer pole oru nalla chitha maayi maaratte  . By  lalettan fan	positive	Lucifer pole oru nalla chitha maayi maaratte. By lalettan fan
+11	11	ml_sen_25	Ente prthvirajee kettipidich oru ummma thannaoteee chakkarereeee	positive	Ente prthvirajee kettipidich oru ummma thannaoteee chakkareeeee
+12	12	ml_sen_26	Adich keri va makkallee ika polikkmm	positive	Adich keri va makkallee ika polikkmm
+13	13	ml_sen_27	YouTube logic 66k likes + 6.3k dislikes = 16k views.. myr	negative	YouTube logic 66k likes + 6.3k dislikes = 16k views.. myr
+14	14	ml_sen_29	Ella new gen nadan maarum ananju...eth saubin ugam 🥰	positive	Ella new gen nadan maarum ananju...eth saubin ugam 🥰
+15	15	ml_sen_30	Eattan fanzz koode ind...ninga polikk ikkkaaaa	positive	Rattan fanzz koode ind...ninga polikk ikka
+16	16	ml_sen_31	Trailer superrrrr ikka pwolikkum padam oru action thriller blockbuster ayirikkum	positive	Trailer superrrrr ikka pwolikkum padam oru action thriller blockbuster ayirikkum
+17	17	ml_sen_33	Onne poyeda mugath puttiyum adich oronne iragiyekum mega star	negative	Onne poyeda mugath puttiyum adich oronne iragiyekum mega star
+18	18	ml_sen_34	Ith oru onnonnara itemm anello ikaaa.......	positive	Ith oru onnonnara itemm anello ikaaa…….
+19	19	ml_sen_35	Onnum parayanilla ennalum  oru rakshayam illa	positive	Onnum parayanilla ennalum oru rakshayam illa
+20	20	ml_sen_36	Ufff vere level ikkaaa ingha pwoli aahn	positive	Ufff vere level ikkaaa ingha pwoli aahn
+21	21	ml_sen_39	Lalettante stunt.... kandirunnupovum aarum... Entha oru style... Mammootty thapassirunnal polum ettante aduthu ethillaaa....	neutral	Lalettante stunt.... kandirunnupovum aarum... Entha oru style... Mammootty thapassirunnal polum ettante aduthu ethillaaa....
+22	22	ml_sen_40	Enteh laletta eth trailer aanu uff	positive	Enteh laletta eth trailer aanu uff
+23	23	ml_sen_43	Ente ponnikka...ningalu Oru rekshayum illa.... polichadukki... idikkatta waiting...	positive	Ente ponnikka...ningalu Oru rekshayum illa....polichadukki...idikkatta waiting...
+24	24	ml_sen_44	Sajeev pilla enna sadaranakarane aarum marakaruthu...chaverinte cinema cheyyumbol chaverayi poya oru manushyan.	negative	Sajeev pilla enna sadaranakarane aarum marakaruthu...chaverinte cinema cheyyumbol chaverayi poya oru manushyan.
+25	25	ml_sen_45	Movie ok aanu.    Entertaining movie	positive	Movie ok aanu. Entertaining movie
+26	26	ml_sen_47	Eth pulimuragan pole undalo..trailerinte last sredhiku	neutral	Eth pulimuragan pole undalo..trailerinte last sredhiku
+27	27	ml_sen_49	Ichaayn masss alaaa marana masss anuuuu polwiii	positive	Ichayan mass alaa marana mass anuuuu polwiii
+28	28	ml_sen_53	Adipwoli comedy trailer aane ettaaa  ittichaayan	positive	Adipwoli comedy trailer aane ettaaa ittichaayan
+29	29	ml_sen_56	Super film adipoli next joshy director enu paryam	positive	Super film adipoli next joshy director enu paryam
+30	30	ml_sen_59	Oo ikkkaa polichu enikk uraappaa 100cr ethavum maasssyaaa trailer oru raksyumillaaa ikkaa	positive	Oo ikkkaa polichu enikk uraappaa 100cr ethavum maasssyaaa trailer oru raksyumillaaa ikkaa
+31	31	ml_sen_60	Next 100 crr sure pakka full entertainment movie aanenu trailer kanddaal ariyaam	positive	Next 100 crr sure pakka full entertainment movie aanenu trailer kanddaal ariyaam
+32	32	ml_sen_64	Ikka Arya prithi surajettan Puthiya payyanmaru Ahana Ellarum pwolichutta	positive	Ikka Arya prithi surajettan Puthiya payyanmaru Ahana Ellarum pwolichutta
+33	33	ml_sen_66	Trailer ethu pola kanikana ayirunnu eni 28march vara weight cheyan avilla ....heavy mass	positive	Trailer ithu pola kanikana ayirunnu eni 28 march vara weight cheyan avilla ....heavy mass
+34	34	ml_sen_67	Ikkaa vere levelaaaa.. Masss ka baap	positive	Ikkaa vere level aaa.. Mass ka baap
+35	35	ml_sen_68	Oru rakshayumilla nalukalkku ippol kandathivechu ettavum bst film	positive	Oru rakshayumilla nalukalkku ippol kandathivechu ettavum bst film
+36	36	ml_sen_69	5 minute kond youtube hang avum	positive	5 minute cond youtube hang avum
+37	37	ml_sen_70	Aiyee.. Trailer satyam paranjal Valya rasamonun illa and I'm a lal fan	negative	Aiyee.. Trailer satyam paranjal Valya rasamoun illa and I'm a lal fan
+38	38	ml_sen_71	Ithu pokkiri raja 2 aano atho pulimurugan 2 aanoenthayalum massAll the Best Ikka and team	neutral	Ithu pokkiri raja 2 aano atho pulimurugan 2 aanoenthayalum mass All the best Ikka and team
+39	39	ml_sen_72	mind blowing ikkaaaa....	positive	mind blowing ikkaaaaa....
+40	40	ml_sen_75	Ikkaas best actorile pole feel cheyyunnu	positive	Ikkaas best actorile pole feel cheyyunnu
+41	41	ml_sen_77	Mammookka....mass n style kanikan...ningale kazhinjeyullu malayalathil vere nadanmar.. #style #mass #bgm #dop #mammookka vere level... Fdfs locked	positive	Mammookka....mass n style kanikan...ningale kazhinjeyullu malayalathil vere nadanmar.. #style #mass #bgm #dop #mammookka vere level... Fdfs locked
+42	42	ml_sen_78	Lallettante masss kannannelll decemberil odiyan irangumbol teaterukalileekku vaaa odiyanthe odi vidhyakal	positive	Lallettante masses kannannelll decemberil odiyan irangumbol teaterukalileekku vaaa odiyanthe odi vidhyakal
+43	43	ml_sen_79	Ente  ponnu annaa oru rekshayum ellaaa....katta waiting...	positive	Ente ponnu annaa oru rekshayum ellaaa....katta waiting...
+44	44	ml_sen_81	Raaja lucifer oru day irangiyirunnel lucifer moonjiyene......	negative	Raaja lucifer oru day irangiyirunnel lucifer moonjiyene......
+45	45	ml_sen_82	Raksha illa alliya... Ipo njn chatha ente shavathinu chiricha mugamairkum	positive	Raksha illa alliya... Ipo njn chatha ente shavathinu chiricha mugamairkum
+46	46	ml_sen_83	Mammukkaa  aa shabdam Kelkan matram njan ee trailer 10+ times kandu.	positive	Mammukka a shabdam Kelkan mathram njan ee trailer 10+ times kandu.
+47	47	ml_sen_84	Odiyan trailer nakalum katta waiting Lucifer	positive	Odiyan trailer nakalum katta waiting Lucifer
+48	48	ml_sen_86	Mass trailer	positive	Mass trailer
+49	49	ml_sen_87	16 k..  mammooty fans thayolikal dislike pooranmar	negative	16k.. mammootty fans tholikal dislike pooranmar
+50	50	ml_sen_88	KINNAN ORU RAKSHAYUM ILLA BGM KIDU	positive	KINNAN ORU RAKSHAYUM ILLA BGM KIDU
+51	51	ml_sen_90	ഇത് വേറെ level annallo machanmare...	positive	This is another level annallo machanmare...
+52	52	ml_sen_91	Nte. Ammmmoooooo ..Heavy ....dislike chathavarkku sthuthiyayirikkatte......ethrayum dislike.......one name mohanlal......	positive	Nte. Ammmmoooooo ..Heavy ....dislike chathavarkku sthuthiyayirikkatte......ethrayum dislike.......one name mohanlal......
+53	53	ml_sen_92	Ippo ettanfan ikkafan parayunilaa   Malayalam industry verea level aakanm so fdfs parayunilaa fd parayunu	positive	Ippo ettanfan ikkafan parayunilaa Malayalam industry verea level aakanm so fdfs parayunilaa fd parayunu
+54	54	ml_sen_93	Adicholu etra dislike veenelum kuru pottichittu oru kaariyavum illa	negative	Adicholu etra dislike veenelum kuru pottichittu oru kaariyavum illa
+55	55	ml_sen_94	Adipoli... Kidu kidu kidu... First day first show... #mammookka	positive	Adipoli... Kidu kidu kidu... First day first show... #mammookka
+56	56	ml_sen_96	Trailer eranghunnathinu munne thanne rajaye pedicha lalettane paripikkanayitt kure fans	negative	Trailer eranghunnathinu munne thanne rajaye pedicha lalettane paripikkanayitt kure fans
+57	57	ml_sen_98	Action film kaddittu kurrachu kallam ayyi	positive	Action film kaddittu kurrachu kallam ayyi
+58	58	ml_sen_99	EDA naayikale face of indian cinema alla face of malayalam cinema enna parayada koppanmaare	negative	EDA naayikale face of indian cinema alla face of malayalam cinema enna parayada koppanmaare
+59	59	ml_sen_100	Pwoli mass marana mass iam waiting	positive	Pwoli mass marana mass iam waiting
+60	60	ml_sen_102	Vere level ikka polikum. RAJA vere level aakum. Ikkaaaa	positive	Vere level ikka polikum. RAJA vere level aakum. Ikkaaaa
+61	61	ml_sen_103	Ikka vere level	positive	Ikka vere level
+62	62	ml_sen_104	Mammootty fieldoutaayi ennu rodhikkunna fans ee trailor kandittu vaayil viralitottirikkayaaanu	negative	Mammootty fieldoutaayi ennu rodhikkunna fans ee trailor kandittu vaayil viralitottirikkayaaanu
+63	63	ml_sen_105	Vera oru nadaneyum mosham parayan njanilla ennalum ijjathi items ee prayathilum nalkan ee megastarinu mathrame kazhiyukayollu	positive	Vera oru nadaneyum mosham parayan njanilla ennalum ijjathi items ee prayathilum nalkan ee megastarinu mathrame kazhiyukayollu
+64	64	ml_sen_107	Trailer kandappo pulimurugan evdeyokkayo ulla pole orupadu sammyam undu.	neutral	Trailer kandappo pulimurugan evdeyokkayo ulla pole orupadu sammyam undu.
+65	65	ml_sen_109	Age is just an number Enn manassilaki thanna trailer	positive	Age is just an number Enn manassilaki thanna trailer
+66	66	ml_sen_111	Trailer nannayutu untu valthukkal mokanlol Sir and fans	positive	Trailer nannayutu untu valthukkal mokanlol Sir and fans
+67	67	ml_sen_113	Peter hein touch kaananund fightil	positive	Peter hein touch kaananund fightil
+68	68	ml_sen_115	Anu sitharayude dialogue oru dheerha vanithayudethanu.. Athu parayendathu sangadapettalla	negative	Anu sitharayude dialogue oru dheerha vanithayudethanu.. Athu parayendathu sangadapettalla
+69	69	ml_sen_118	Ethakayo pundakal e myre eragiyal Lucifer trailer  kadathum enokke paraniju enitte enthayi obiyille latettane thopikan avilla mammu	negative	Ethakayo pundakal e myre eragiyal Lucifer trailer kadathum enokke paraniju enitte enthayi obiyille latettane thopikan avilla mammu
+70	70	ml_sen_119	Mammukka superb...but e trailer cut pulimurukan second pole undallo	neutral	Mammukka superb...but e trailer cut pulimurugan second pole undallo
+71	71	ml_sen_120	Voice onnitaum movie vere onnitaum	neutral	Voice onnitaum movie vere onnitaum
+72	72	ml_sen_122	masss....  ikkaa	positive	mass.... ikka
+73	73	ml_sen_126	Polichhh kiduuu trailerrr ikkkaaa ennummm ikkaa thaneeeeee oru rekshayillathaawa traileerrrr waitingggg for thee moviee	positive	Polichhh kiduuu trailerrr ikkkaaa ennummm ikka thaneeeeee oru rekshayillathaawa traileerrrr waitingggg for thee moviee
+74	74	ml_sen_127	trailerinaayi kaathirunnavar like button adich pottikkk	positive	trailerinaayi kaathirunnavar like button adich pottikkk
+75	75	ml_sen_129	Ippo kaannuvr like adicho veendum veendum kandittum kothitheeratha oru muthal ufff	positive	Ippo kaannuvr like adicho veendum veendum kandittum kothitheeratha oru muthal ufff
+76	76	ml_sen_130	1 mnt.. I laks views.. Polichu.. Laletan massssssssssssss	positive	1 mnt.. I lakh views.. Polichu.. Lalettan sssssssssssssss
+77	77	ml_sen_133	Lalettan kidu Raju Etta super trailer	positive	Lalettan kidu Raju Etta super trailer
+78	78	ml_sen_136	Evideo oru Hollywood story varunnilleee. Oru DBT.	positive	Evideo oru Hollywood story varunnilleee. Oru DBT.
+79	79	ml_sen_138	Uff oru rekshem illa ikka	positive	Uff oru rekshem illa ikka
+80	80	ml_sen_139	Lalettan nu pakaram vekkaanaarumillaaa	positive	Lalettan nu pakaram vekkaanaarumillaaa
+81	81	ml_sen_141	Ambooo pwoli oru rekshem illa lalettaaa poliiii	positive	Ambooo pwoli oru rekshem illa lalettaaa poliiii
+82	82	ml_sen_143	Padam polikum	positive	Padam polikum
+83	83	ml_sen_145	From a A10 fan.  Trailer masmarikam	positive	From an A10 fan. Trailer masmarikam
+84	84	ml_sen_146	All the best ikka.... Oru ettan fan	positive	All the best ikka.... Oru ettan fan
+85	85	ml_sen_150	nyzzzz work	positive	nyzzzz work
+86	86	ml_sen_153	Athirappilliyude saundharyam illathaya nimisham 2:07 love uuuu mammookkkkaaaaaaa	positive	Athirappilliyude saundharyam illathaya nimisham 2:07 love uuuu mammookkkaaaaaaa
+87	87	ml_sen_154	Ee Vishnu  Stephan nedumpally kondupokum athinu oru samashavum Venda	positive	Ee Vishnu Stephan nedumpally kondupokum athinu oru samashavum Venda
+88	88	ml_sen_155	എജ്ജാതി frames കിടു trailer Rajuvetta brilliant direction!!	positive	Ejjati frames Kidu trailer Rajuvetta brilliant direction!!
+89	89	ml_sen_157	Film oru raksha illa .... adipwoli	positive	Film oru raksha illa .... adipwoli
+90	90	ml_sen_160	Next hit loading 2019 ikka anguu edukuvaaa	positive	Next hit loading 2019 ikka anguu edukuvaaa
+91	91	ml_sen_165	Trailer bore aayi .. eni movie Kandu nokkam	negative	Trailer bore aayi .. eni movie Kandu nokkam
+92	92	ml_sen_167	Mamangam malayalam industriyude oru gem aay marum urapp	positive	Mamangam malayalam industriyude oru gem aay marum urapp
+93	93	ml_sen_169	തീപ്പൊരി waiting ah  raja  mammookka	positive	Spark waiting ah raja mammookka
+94	94	ml_sen_170	Gopi annan  Namichu   Kidukkachi bgm  Kidukki	positive	Gopi annan Namichu Kidukkachi bgm Kidukki
+95	95	ml_sen_171	Poliiii super luv it.  ......	positive	Poliiii super luv it. ……
+96	96	ml_sen_173	Onnathinu pottikan padakam Alla nalla assalu bomb thanne	negative	Onathinu pottikan padakam Alla nalla assalu bomb thanne
+97	97	ml_sen_174	Reckodukal ini pazhankatha puthiya charithramezhuthan varunnu mammooka	positive	Reckodukal ini pazhankatha puthiya charithramezhuthan varunnu mammooka
+98	98	ml_sen_175	Super polich vere level  kidukki wating	positive	Super polich vere level kidukki eating
+99	99	ml_sen_180	Entemmachi ..enna oru trailer... shanker ramakrishanan  ellamkondum kidilan...wow....	positive	Entemmachi ..enna oru trailer... shanker ramakrishanan ellamkondum kidilan...wow....
+100	100	ml_sen_182	Oru kolamaass dialogue um athine vellunna look um	positive	Oru kolamaass dialogue um athine vellunna look um
+101	101	ml_sen_184	Eth kandit nere poi pulimurugante trailerum onn kandek 2 ilum enthelum vethyasom undo?	negative	Eth kandit nere poi pulimurugante trailerum onn kandek 2 ilum enthelum vethyasom undo?
+102	102	ml_sen_186	Kasaba+ idi+ siruthai  കണ്ട പോലെ !!	neutral	Kasaba+ idi+ siruthai as seen !!
+103	103	ml_sen_189	Kumbalangi nights kazhinj oru vivaravum illayrnappo vishamam thonni ..ippo ashwasamayi baby molee	positive	Kumbalangi nights kazhinj oru vivaravum illayrnappo vishamam thonni ..ippo ashwasamayi baby molee
+104	104	ml_sen_190	Katta waiting : a lalettan fan 🤩	positive	Katta waiting : a lalettan fan 🤩
+105	105	ml_sen_191	Anu sitara voice pora.ezhuti vachatu atupole vaayikkyunnataayi tonni.but kaanaan sundari.bakki elllavarum kalakki.super.	neutral	Anu sithara voice pora.ezhuthi vachathu athupole vaayikkyunnataayi tonni.but kaanaan sundari.bakki elllavarum kalakki.super.
+106	106	ml_sen_192	Triller Kandal ariyam  Padam sooperhit aanu enn	positive	Thriller Kandal ariyam Padam sooperhit aanu enn
+107	107	ml_sen_193	Super Cinema... Really a thriller movie... Kanditt sahikyilla... Sangalpikyaan koodi Vayya anganoru avastha .... Kidilan movie	positive	Super Cinema... Really a thriller movie... Kanditt sahikyilla... Sangalpikyaan koodi Vayya anganoru avastha .... Kidilan movie
+108	108	ml_sen_194	Entammo...polli kl8 kdavukalkku like adikaanulla nool	positive	Entammo...polli kl8 kdavukalkku like adikaanulla nool
+109	109	ml_sen_195	Ijjathi...ente ponne...namichu ikka nigale...mamangam maha yudham	positive	Ijjathi...ente ponne...namichu ikka nigale...mamangam maha yudham
+110	110	ml_sen_196	Edo thallu menone direction padikanonkil rajuvetante aduthu chenna enganeyanennu padipichu tharum ?	negative	Edo thallu menone direction padikanonkil rajuvetante aduthu chenna enganeyanennu padipichu tharum ?
+111	111	ml_sen_197	Big b ikka annum innum top lookillum abhinayathilum	positive	Big b ikka annum innum top lookillum abhinayathilum
+112	112	ml_sen_200	Etten fan anenu njan veendum teliyichirikunu	positive	Etten fan anenu njan veendum teliyichirikunu
+113	113	ml_sen_201	Ijjathi.... Mammookka..  unni achuthan... Maamangam	positive	Ijjathi.... Mammookka.. unni achuthan... Maamangam
+114	114	ml_sen_203	Padam polikkum. Ikka marana mass	positive	Padam polikkum. Ikka marana mass
+115	115	ml_sen_206	Ithoru kidilol kidilan item ayirikum..katta waiting ikkaaa	positive	Ithoru kidilol kidilan item ayirikum..katta waiting ikkaaa
+116	116	ml_sen_207	Manju chechiiiiii n lalettan back again	positive	Manju chechiiiiiii n lalettan back again
+117	117	ml_sen_208	Ow nta bapaa...aa kaaakki shert  sleeve madakkiyulla varavu...allanu..rrrrromam yeneet ninnu...	positive	Ow nta bapaa...aa kaaakki shert sleeve madakkiyulla varavu...allanu..rrrromam yeneet ninnu...
+118	118	ml_sen_209	Uff romanjam kond irinaduth ninn njan enit ninn poyi	positive	Uff romanjam kond irinaduth ninn njan enit ninn poyi
+119	119	ml_sen_211	cinema kandu adipwli aayrnnuuuu njn oru ettan fan aanu pakshe enik ishtapettu jai super	positive	cinema kandu adipwli aayrnnuuuu njn oru ettan fan aanu pakshe enik ishtapettu jai super
+120	120	ml_sen_212	Poli poli poli 🥰🥰🥰chende bgm wooow	positive	Poli poli poli 😍😍😍chende bgm wooow
+121	121	ml_sen_213	Dislike adikan vanna haters ithe ningak patiya area alla ninteyoke rayaye kandam vazhi oodicha trailer aaan @£ucifer#loading	negative	Dislike adikan vanna haters ithe ningak patiya area alla ninteyoke rayaye kandam vazhi oodicha trailer aaan @£ucifer#loading
+122	122	ml_sen_214	Romanjam...  uff ikkaaaaa polich... 🥰	positive	Romanjam... uff ikkaaaaa polich... 🥰
+123	123	ml_sen_215	entammo.........onnum parayaaanilla......vaakukalku appuram.......romanjaaam at it's peak	positive	entammo.........onnum parayanilla......vakkukal appuram.......romanjaaam at its peak
+124	124	ml_sen_217	Ithokka Malayalam cinemayk maathram avakashapedan pattunna cinemakal aan	positive	Ithokka Malayalam cinemayk maathram avakashapedan pattunna cinemakal aan
+125	125	ml_sen_219	kattaa waiting by a lalettan fan#ikkaa vere level	positive	kattaa waiting by a lalettan fan#ikkaa vere level
+126	126	ml_sen_222	Ithum koodi kooty  ente 905 aam view	positive	Ithum koodi kooty ente 905 aam view
+127	127	ml_sen_223	Is it Aadai (tamil film) remake?	neutral	Is it Aadai (tamil film) remake?
+128	128	ml_sen_226	Oru rakshayum illa ikka.. ningal pwolichu..  ith kidukkum	positive	Oru rakshayum illa ikka.. ningal pwolichu.. ith kidukkum
+129	129	ml_sen_227	Etta...... Sherikm super🤝ntha parayuka...  Oru rekshem illa.. Adipoli... Katta wyting	positive	Etta...... Sherikm super🤝ntha parayuka... Oru rekshem illa.. Adipoli... Katta wyting
+130	130	ml_sen_228	Ingalu itra nal aayitt inganatha padamgal irakkanjath enthan bhaii...	positive	Ingalu itra nal aayitt inganatha padamgal irakkanjath enthan bhaii...
+131	131	ml_sen_229	cr nokathe film nokunnavark vendii oru filmmm ayirikyum eth	positive	cr nokathe film nokunnavark vendii oru filmmm ayirikyum eth
+132	132	ml_sen_230	Lucifer nne polle...... Raja 2 vum vijayikkktte......	positive	Lucifer nne polle...... Raja 2 vum vijayikkktte......
+133	133	ml_sen_234	Late aayi vannalum latest aayi varananu A10 nu istam latest aayi tanne varum  Lalettan	positive	Late aayi vannalum latest aayi varananu A10 nu istam latest aayi tanne varum Lalettan
+134	134	ml_sen_237	Unlike adichavarkku naduviral namaskaram.  Support like	negative	Unlike adichavarkku naduviral namaskaram. Support like
+135	135	ml_sen_238	ikka kalakki super kidiloski trailer raja theatre poora parambu aakum	positive	ikka kalakki super kidiloski trailer raja theater poora parambu aakum
+136	136	ml_sen_240	Ithokkey kandittaanu iparthey pillaru schoolilum collegilum adiyum pidiyum vazhakkum ondakunnadhu	negative	Ithokkey kandittaanu iparthey pillaru schoolilum collegilum adiyum pidiyum vazhakkum ondakunnadhu
+137	137	ml_sen_241	In 2 days 5 million views Adi makkale like Mammmootty Prayam koodunthorum Cheruppamagunna Logathile ore oru humannn	positive	In 2 days 5 million views Adi makkale like Mammootty Prayam koudonthorum Cheruppam Gunna Logathile ore oru humannn
+138	138	ml_sen_242	kidilam cinema ethinte second part aragiyirunegil	positive	kidilam cinema ethinte second part aragiyirunegil
+139	139	ml_sen_244	Suraj anna.. entha parayya.. annan nte acting .. vallathe range aayi anna.. onnum parayan illa.. othiri ishtama	positive	Suraj anna.. entha parayya.. annan nte acting .. vallathe range aayi anna.. onnum parayan illa.. othiri ishtama
+140	140	ml_sen_245	Entammmooo Ejjathi trailer kandalum kandalum Mathi varatha trailer	positive	Entammoo Ejjathi trailer kandalum kandalum Mathi varatha trailer
+141	141	ml_sen_246	Ithada mass ..!!! Enta laletta ummmmaaaa...!!! 🥰🥰	positive	Ithada mass ..!!! Enta laletta ummm aaaa...!!! 😋
+142	142	ml_sen_248	Oru rakshayumilla lalettan and rajuvetta polichu	positive	Oru rakshayum illa lalettan and rajuvettan polichu
+143	143	ml_sen_252	Onnum parayanilla... ഒരു pidiyum kittunnilla... waiting for.... pathinettam പടി..... Rockkk Mammookka .	positive	Onnum parayanilla... a pidiyum kittunnilla... waiting for.... pathinettam padi..... Rockkk Mammookka .
+144	144	ml_sen_253	Kazhinja 3varshathinidayil lalettante nalloru trailer	positive	Kazhinja 3varshathinidayil lalettante nalloru trailer
+145	145	ml_sen_254	Padam irangi Innum trailer kandu Most trusted trailer Biggest block buster 100 CRORE RAAJA	positive	Padam irangi Innum trailer kandu Most trusted trailer Biggest block buster 100 CRORE RAAJA
+146	146	ml_sen_255	ellum shamikkum sunny chechiye villichu veruthi apamanichu vittathu orikkalum shamikkilla film kandavark manasilavum mosham  dialogs	negative	ellum shamikkum sunny chechiye villichu veruthi apamanichu vittathu orikalum shamikkilla film kandavark manasilavum mosham dialogues
+147	147	ml_sen_257	Ha.. Ha..  Ha...  Anghane adhum hudaaa huva	negative	Ha.. Ha.. Ha... Anghane adhum hudaaa huva
+148	148	ml_sen_259	Vineeth sreenivasane enikke vishwasa.... ithu pwolikkum	positive	Vineeth sreenivasane enikke vishwasa.... ithu pwolikkum
+149	149	ml_sen_261	Sunny Chachi kananan vanndi trailer 10 thavana kanda njan-x🤤	positive	Sunny Chachi small vanndi trailer 10 thavana kanda njan-x🤤
+150	150	ml_sen_265	Pulimuranganee edakk okaa arekilimm ormaa vanoo🤐	neutral	Pulimuranganee edakk okaa arekilimm ormaa vanoo🤐
+151	151	ml_sen_266	Ee traler kanditu heavy mass feeling kitiyenkil full credit goes to Rajuvettan	positive	Ee trailer kandittu heavy mass feeling kitiyenkil full credit goes to Rajuvettan
+152	152	ml_sen_267	Adhikam show kaanikkanda odiyan oruma undallo alle	negative	Adhikam show kaanikkanda odiyan oruma undallo alle
+153	153	ml_sen_269	Singana suryaye vellan oru poo monum Ella	negative	Singana suryaye vellan oru poo monum Ella
+154	154	ml_sen_270	Kidilan trailer vere level	positive	Kidilan trailer vere level
+155	155	ml_sen_271	Teaser kand kili poyavarkm trailer kand poya kili vannavarum	neutral	Teaser kand kili poyavarkm trailer kand poya kili vannavarum
+156	156	ml_sen_275	Omg 5 Million sure anu	positive	Omg 5 million sure anu
+157	157	ml_sen_282	Dislike button adich kalikunaa tmzod pucham matram	negative	Dislike button adich kalikunaa tmod pucham mathram
+158	158	ml_sen_283	2019 peranbil thudangi maamankathil ethi nikkunnu veshapakarchayude thamburaan. MAMMOOTTY	positive	2019 peranbil thudangi mamankanthil ethi nikkunnu veshapakarchayude thamburaan. MAMMOOTTY
+159	159	ml_sen_284	nammal  triple strong alla    athukkum mele  lalettan da  ......................... <3<3<3<3	positive	nammal triple strong alla athukkum mele lalettan da ......................... <3<3<3<3
+160	160	ml_sen_285	10M VIEW  AKKAN TRY CHEYYUNNAVAR LIKE ADI	positive	10M VIEW AKKAN TRY CHEYYUNNAVAR LIKE ADI
+161	161	ml_sen_286	Tharikida sabu pora oru kazhchakilla .	negative	Tharikida sabu pora oru kazhchakilla .
+162	162	ml_sen_293	#Mammookkaye jeevanayi kanunnavar like adich pwolikk #ikka	positive	#Mammookkaye jeevanai kanunnavar like adich pwolikk #ikka
+163	163	ml_sen_294	Mamukka ottiri ishttamm ethe polikkumm	positive	Mamukka ottiri ishttamm ethe polikkumm
+164	164	ml_sen_298	D companyile  jayasurya  ariyuo  ningalk  athaan  vera  level	positive	D companyile jayasurya ariyuo ningalk athaan vera level
+165	165	ml_sen_299	Mamootiku lalettan fansinte vaka Vijaya asamaskal neridunnu	positive	Mamootiku lalettan fansinte vaka Vijaya asamaskal neridunnu
+166	166	ml_sen_301	E x mas...... Driving license kazjinjal.. next pooram	positive	E x mas...... Driving license kazjinjal.. next pooram
+167	167	ml_sen_302	trending ennu kaanumbol Katta dileepeatan fanaya aalukalk indavunna Oru.. santhosham  athu paranju ariyikan. patulaeatan  ishtam	positive	trending ennu kaanumbol Katta dileepeetan fanaya aalukalk indavunna Oru.. santhosham athu paranju ariyikan. patulaeatan ishtam
+168	168	ml_sen_303	iragiya padagal 5 yenam aavereginum thaye ith super hitagum	neutral	iragiya padagal 5 yenam aavereginum thaye ith super hitagum
+169	169	ml_sen_306	Idu entina trailer il padam motham kanikune?	neutral	Idu entina trailer il padam motham kanikune?
+170	170	ml_sen_308	aadyam Lucifer eni raja ...box officinta kaaryatil teerumanamayi	positive	aadyam Lucifer eni raja ...box officinta kaaryatil teerumanamayi
+171	171	ml_sen_309	Romam chaadi eneettu panchayathu ground vazhi 2 round oodiiii	positive	Roman chaddi neetu panchayathu ground vazhi 2 round oodie
+172	172	ml_sen_311	Oru comedy entertainer aarikkum	positive	Oru comedy entertainer aarikkum
+173	173	ml_sen_312	Trailer....nte ponno...oru rakshem illa katta pwli.....ikka pne parayandaallo....megastar mammootty in mamangam....katta wa8tng  haters...jst move bck	positive	Trailer....nte ponno...oru rakshem illa katta pwli.....ikka pne parayandaallo....megastar mammootty in mamangam....katta wa8tng haters...jst move bck
+174	174	ml_sen_313	Ettan fans like button pottich kaanich kodkk	positive	Ettan fans like button pottich kaanich kodkk
+175	175	ml_sen_314	Mammukka oru rakshayilla     NEXT 200 CRORES IN MOLLYWOOD CINEMA	positive	Mammukka oru rakshayilla NEXT 200 CRORES IN MOLLYWOOD CINEMA
+176	176	ml_sen_316	Katta waiting jayetta oru onnu onnara trissur poorathinu...... Mass alla marana mass anne .... Jayettan polich adukki.. Padam	positive	Katta waiting jayetta oru onnu onnara trissur poorathinu...... Mass alla marana mass anne .... Jayettan polich adukki.. Padam
+177	177	ml_sen_317	Time 0:53.. Yesuvinte Kazhuvettiya Cross... Ithu ozhivakamayirunnu... :(	neutral	Time 0:53.. Yesuvinte Kazhuvettiya Cross... Ithu ozhivakamayirunnu... :(
+178	178	ml_sen_318	Kidu trailer  Ikka fans like Adi	positive	Kidu trailer Ikka fans like Adi
+179	179	ml_sen_323	Dislike adikunna mammunikale	negative	Dislike adikunna mammunikale
+180	180	ml_sen_325	Raju Ettan powli BOX tharathu	positive	Raju Ettan powli BOX tharathu
+181	181	ml_sen_326	Oru Anya Basha  tharathekoodi role kodukkamayirunnu	negative	Oru Anya Basha tharathekoodi role kodukkamayirunnu
+182	182	ml_sen_329	Jacket..Cooling glass...Car...Slow motion...Pazhaya bomb katha tanne....Hahahaha ..Eyalku madukille ethonnum...	negative	Jacket..Cooling glass...Car...Slow motion...Pazhaya bomb katha tanne....Hahahaha ..Eyalku madukille ethonnum...
+183	183	ml_sen_330	Mohanlal fans like here .... Ettan maaasss aanu	positive	Mohanlal fans like here .... Ettan maaasss aanu
+184	184	ml_sen_333	Aravindraj rs.(govt:model bhss thycaud	positive	Aravindraj rs.(govt:model bhss thycaud
+185	185	ml_sen_334	Entammmo kidilan teaser.  Like big B....	positive	Entammmo kidilan teaser. Like big B...
+186	186	ml_sen_335	Kidilam padam..perfct mass class  movie	positive	Kidilam padam..perfect mass class movie
+187	187	ml_sen_336	Ikkayude veshapakarchakalude oru pemaari thanne urappikaaaam The face of indian cinema #Megastar	positive	Ikkayude veshapakarchakalude oru pemaari thanne urappikaaaam The face of Indian cinema #Megastar
+188	188	ml_sen_342	Mmade Arsha  Arsha as Devi  keri pwolikk mwuthe 🤩	positive	Made Arsha Arsha as Devi keri polikk mwuthe 🤩
+189	189	ml_sen_343	Ikka ingal polikkumveendum veendum kanan thonunnu	positive	Ikka ingal polikkumveendum veendum kanan thonunnu
+190	190	ml_sen_344	Kidilan trailer... All da best lalettan.  By a Mammukka fan...	positive	Kidilan trailer... All da best lalettan. By a Mammukka fan...
+191	191	ml_sen_345	Mammooka ninghal mass aa pwoli item	positive	Mammootty ninghal mass aa pwoli item
+192	192	ml_sen_347	Janapriyan jail vitt vere kaliyillaa... all the bst tm	positive	Janapriyaan jail vitt vere kaliyillaa... all the bst tm
+193	193	ml_sen_349	Çhūñk mammukkakkum vyshakettanum ente big salute  Inganoru mass Padam orukkithannathinu Ikka bhakthans	positive	Çhūñk mammukkakkum vyshakettanum ente big salute Inganoru mass Padam orukkithannathinu Ikka bhakthans
+194	194	ml_sen_351	Lucifer lostfer aavandirunna mathiyayirunnu .kandittu adutha floapinulla sakalathum kaanunnundu	negative	Lucifer lostfer aavandirunna mathiyayirunnu .kandittu adutha floapinulla sakalathum kaanunnundu
+195	195	ml_sen_352	Ejjathi Padam Innanu Kandathu Lalettan Inglu vere level Anu Ee Age lum Ithrem Meyvazhakkam	positive	Ejjathi Padam Innanu Kandathu Lalettan Inglu vere level Anu Ee Age lum Ithrem Meyvazhakkam
+196	196	ml_sen_354	Ettaaaa kandalum kandalum mathi varunnillaaaaaa poli anu kettooooo	positive	Ettaaa kandaalum kandalum mathi varunnillaaaaaa poli anu kettooooo
+197	197	ml_sen_356	You tube 6 mani thottu hanging aanu ethum koodi aavumbol YouTube pottitherikkumo	positive	Youtube 6 mani thottu hanging anu ethum koodi aavumbol YouTube pottitherikkumo
+198	198	ml_sen_357	Oru rakshem illa.... Lalettan chumma angu polichu..	positive	Oru rakshem illa.... Lalettan chumma angu polichu..
+199	199	ml_sen_358	oru raksheille...mammooka love u...boom boom bgm	positive	oru raksheille...mammooka love u...boom boom bgm
+200	200	ml_sen_359	Eatho Kure eannangal dislike... Anganeyum Kure eannangal	negative	Eatho Kure eannangal dislike... Anganeyum Kure eannangal
+201	201	ml_sen_363	Indrajith LUCIFER ennu paranjappo	positive	Indrajith LUCIFER ennu paranjappo
+202	202	ml_sen_364	Bgm kollaam but Cia bgm pole ind	neutral	Bgm kollaam but Cia bgm pole ind
+203	203	ml_sen_366	Malayalam movie ano eth ?  Oru rakshayum illa ?	positive	Malayalam movie ano eth ? Oru rakshayum illa ?
+204	204	ml_sen_367	Arjun reddy	neutral	Arjun reddy
+205	205	ml_sen_368	Nalla set movie	positive	Nalla set movie
+206	206	ml_sen_371	Film hitayalum floppayalum trailerinirikate oru kuthirappavan	positive	Film hitayalum floppayalum trailerinirikate oru kuthirappavan
+207	207	ml_sen_372	Idh sure aayittum hit aakum...	positive	Idh sure aayittum hit aakum...
+208	208	ml_sen_374	ejjadhi oola padam immathiri oola padam jeevidhathil kandittilla my rating 0.5/5	negative	ejjadhi oola padam immathiri oola padam jeevidhathil kandittilla my rating 0.5/5
+209	209	ml_sen_376	ethipo tamizhanmarum Karnataka ap ellarum indallo laletta love u	positive	ethipo tamizhanmarum karnataka ap ellarum indallo laletta love u
+210	210	ml_sen_377	Ithu minimum 10 thavana njaan repeat adichu kandittundavum	positive	Ithu minimum 10 thavana njaan repeat adichu kandittundavum
+211	211	ml_sen_378	Second vechu dislike ivane okke samathikkanam ..	negative	Second vechu dislike ivane okke samathikkanam ..
+212	212	ml_sen_379	Gopiyanna bgm oru rakshayum illa Marana bgm	positive	Gopiyanna bgm oru rakshayum illa Marana bgm
+213	213	ml_sen_381	Love you lalettan aarokke thathikettiyalum thazhilla ee rajavu	positive	Love you lalettan aarokke thathikettiyalum thazhilla ee rajavu
+214	214	ml_sen_382	Full pulimurukan team.......  Lalettan ki jai......	positive	Full pulimurukan team....... Lalettan ki jai......
+215	215	ml_sen_386	Mangatholiii... Mattoru neerali avathirunaal mathi. Swam pongiyudae chandu pottu look kollaam..	negative	Mangatholiii... Mattoru neerali avathirunaal mathi. Swam pongiyudae chandu pottu look kollaam..
+216	216	ml_sen_389	yeah kollam surya tvil verunna serial polea und..	negative	yes kollam surya tvil verunna serial polea und..
+217	217	ml_sen_390	Pwoli..... ethu vere level..... Raja returns......ikka da	positive	Pwoli..... ethu vere level..... Raja returns......ikka da
+218	218	ml_sen_392	Ente ponno..... Heavy.... BGM... Ikka pinne parayanilla....2 looks kidilosky 🤩🤩 Overall kidukkachi aahn Mone...	positive	Ente ponno..... Heavy.... BGM... Ikka pinne parayanilla....2 looks kidilosky 🤩🤩 Overall kidukkachi aahn Mone...
+219	219	ml_sen_393	Kgf bahubali 2.0.... nammukum oru adar item undennu para...	positive	Kgf bahubali 2.0.... nammalum oru adaar item undennu para...
+220	220	ml_sen_394	ithokke comedy pole und ...aa  bahubaliyude manam kalayo ?	negative	ithokke comedy pole und ...aa bahubaliyude manam kalaya ?
+221	221	ml_sen_396	Eppozhum eee manushyanu  filiminodulla passion kanumbol ann hooo hats off mammukkka	positive	Eppozhum eee manushyanu filiminodulla passion kanumbol ann hooo hats off mammukkka
+222	222	ml_sen_397	peru ketapol e unda pottum ennaanu karuthiyath. but unda load aayappol alle manasilaayath.... e unda pottilla	positive	peru ketapol e unda pottum ennaanu karuthiyath. but unda load aayappol alle manasilaayath.... e unda pottilla
+223	223	ml_sen_399	Jimitt fans jimittinte theettam thinnaan nokk myrukale	negative	Jimitt fans jimittinte theettam thinnaan nokk myrukale
+224	224	ml_sen_400	Enniku mathramanno ith jayasurayude IDI yumayi samyam thonniyathe	neutral	Enniku mathramanno ith jayasurayude IDI yumayi samyam thonniyathe
+225	225	ml_sen_403	Ente ammoo. Ith polichuu.. Raajuvetta all de best.	positive	Ente ammoo. Ith polichuu.. Raajuvetta all de best.
+226	226	ml_sen_405	Ikka oru rakshaumilla ithe kalakkum  raja da.....	positive	Ikka oru rakshaumilla ithe kalakkum raja da.....
+227	227	ml_sen_406	Ijjathi trailer uff ponnooo.... Oru raksha illaa.. Polichuu Ithavana vishu #Madhura Raja kondu pokum enn urappullar ivide thottit poo...	positive	Ijjathi trailer uff ponnooo.... Oru raksha illaa.. Polichuu Ithavana vishu #Madhura Raja kondu pokum enn urappullar ivide thottit poo...
+228	228	ml_sen_408	Poli trailer. Kidu onnum parayan illa. I am waiting.. mamangam	positive	Poli trailer. Kidu onnum parayan illa. I am waiting.. mamangam
+229	229	ml_sen_409	Enik thonnunu idh telugu padam pole ayirkum enn......	neutral	Enik thonnunu idh telugu padam pole ayirkum enn......
+230	230	ml_sen_410	Anusitharayude abinayam rassamilla kaanan yella fillmilum kanakkaan (my personal opinion)	negative	Anusitharayude abinayam rassamilla kaanan yella fillmilum kanakkaan (my personal opinion)
+231	231	ml_sen_413	Ithu kandappo oru vellimoonga style thonniyathu enikk mathram aano.... ithonnu kandu nokku	positive	Ithu kandappo oru vellimoonga style thonniyathu enikk mathram aano.... ithonnu kandu nokku
+232	232	ml_sen_414	Yejjathi padam ith polikkum ichayante ingane ulla oru padathinumvendiyan ithuvare kathirunnath....... kalki.... ith polikkkum	positive	Yejjathi padam ith polikkum ichayante ingane ulla oru padathinumvendiyan ithuvare kathirunnath....... kalki.... ith polikkkum
+233	233	ml_sen_415	mollywood industrik oru otta pere ullu MOHANLAL	positive	mollywood industrik oru otta pere ullu MOHANLAL
+234	234	ml_sen_416	Adipoli FDFS thanne kaanum. Pulimurugan onnum ithite athra  varathilla. Katta waiting	positive	Adipoli FDFS thanne kaanum. Pulimurugan onnum ithite athra varathilla. Katta waiting
+235	235	ml_sen_417	Jai jai jai lalettan ki jai	positive	Jai jai jai lalettan ki jai
+236	236	ml_sen_419	1:48 illl dileepettante.... Lookkum.... അഭിനയവും......	positive	1:48 illl dileepettante.... Lookkum.... and acting......
+237	237	ml_sen_420	Trailer irangan 88 mins koode atinu munbe 2.5k dislike nth malaranmaranu	negative	Trailer irangan 88 mins koode atinu munbe 2.5k dislike nth malaranmaranu
+238	238	ml_sen_422	Surajettan sound modulation kurach koodi nannakamayirunnu	negative	Surajettan sound modulation kurach koodi nannakamayirunnu
+239	239	ml_sen_424	ithu ividam kondonnum nilkilla monei.hatersei ningaludei karyama kashtam.poyi valla aduppilengannun poyi irikk.aa choodang maarattei.enna julay 5th.kaanaam allalla kaananam.	negative	ithu ividam kondonnum nilkilla monei.hatersei ningaludei karyama kashtam.poyi valla adupilengannun poyi irikk.aa choodang maarattei.enna julay 5th.kaanaam allalla kaananam.
+240	240	ml_sen_425	Best wishes from a ചെകുത്താന്റെ fan..	positive	Best wishes from a Devil fan..
+241	241	ml_sen_426	Mammotide thalayude vfx bigiline vettichu enn parayan paranju....	neutral	Mammotide thalayude vfx bigiline vettichu enn parayan paranju....
+242	242	ml_sen_427	Ikka polikku numma A10 pilleru kude ondu..	positive	Ikka polikku numma A10 pilleru kude ondu..
+243	243	ml_sen_428	Kodutha pani tirichu annakkil kittunnath kando	negative	Kodutha pani tirichu annakkil kittunnath kando
+244	244	ml_sen_429	Ente prithvi anaa engalee polikumm ...romanjamm	positive	Ente prithvi anaa engalee polikumm ...romanjamm
+245	245	ml_sen_430	Model boys pillerundodaaa adikkada makkale like	positive	Model boys pillerundodaaa adikkada makkale like
+246	246	ml_sen_431	Nalla movie njan theatril poyi kandthalalettan poliyanu	positive	Nalla movie njan theatril poyi kandthalalettan poliyanu
+247	247	ml_sen_432	Trailer bgm oru rakshayilla. Movie bgm kattakkayirikkum	positive	Trailer bgm oru rakshayilla. Movie bgm kattakkayirikkum
+248	248	ml_sen_433	Krithyamayi paranjal 30amathe thavana aan trailer kanunnath.	positive	Krithyamayi paranjal 30amathe thavana aan trailer kanunnath.
+249	249	ml_sen_434	Nalla adipoli trailer Adutha Undayum 18am padiyum Peranpum Yathrayum pole flop urappanu	negative	Nalla adipoli trailer Adutha Undayum 18am padiyum Peranpum Yathrayum pole flop urappanu
+250	250	ml_sen_435	Ittichan Polichuuuu Onam Lalettan eduthu ennu parayan Paranju	positive	Ittichan Polichuuuu Onam Lalettan eduthu ennu parayan Paranju
+251	251	ml_sen_436	Ithokke like adichillel	positive	Ithokke like adichillel
+252	252	ml_sen_437	Ikkaa ingalu oru jinn aanu ttaa....	positive	Ikkaa ingalu oru jinn aanu ttaa….
+253	253	ml_sen_439	Onn madiyaaak mammookka Vayassan aayalle Pudiya pullark avasaram kodukk	negative	Onn madiyaaak mammookka Vayassan aayalle Pudiya pullark avasaram kodukk
+254	254	ml_sen_441	Pulimuruga 2.0 ethakka panda lalettan vittathaaaa... Ellanne parayan pattuooo...	neutral	Pulimuruga 2.0 ethakka panda lalettan vittathaaaaa... Ellanne parayan pattuooo...
+255	255	ml_sen_444	Njan veendum kanan vannu 100 pravashyam enkilum kandittundavum	positive	Njan veendum kanan vannu 100 pravashyam enkilum kandittundavum
+256	256	ml_sen_445	Paayunna KL T 666 il avan varunnu	positive	Paayunna KL T 666 il avan varunnu
+257	257	ml_sen_446	Kandittum kandittum  mathiyavunnilla  uff ijjathi item  #mamangam #mammookka	positive	Kandittum kandittum mathiyavunnilla uff ijjathi item #mamangam #mammookka
+258	258	ml_sen_451	Uluppillathavanmaaru script writer ude peru polum vechilla.	negative	Uluppillathavanmaaru script writer ude peru polum vechilla.
+259	259	ml_sen_452	Mamangam mohanlalum marakkar mammookkayum ayirunnenkil.ith chanthuvine ormippikkunnu	positive	Mamangam mohanlalum marakkar mammookkayum ayirunnenkil.ith chanthuvine ormippikkunnu
+260	260	ml_sen_453	Kidu trailer	positive	Kidu trailer
+261	261	ml_sen_454	Njan athyam ayittanuu oru moviee dee trailer live aayitte kaanunneeelalettaan Mass aaneee	positive	Njan athyam ayittanuu oru moviee dee trailer live aayitte kaanunneeelalettaan Mass aaneee
+262	262	ml_sen_455	Poli poli polichu mass mass mass maranamass	positive	Poli poli polichu mass mass mass maranamass
+263	263	ml_sen_456	Enthenne aayalum oru rakshayumilla kidukki mass	positive	Enthenne aayalum oru rakshayumilla kidukki mass
+264	264	ml_sen_457	Mammootiye kaanan vendi maathram rewind cheydhavar undo?.... #goosebumps	positive	Mammootty kanan vendi mathram rewind cheyyathavar undo?.... #goosebumps
+265	265	ml_sen_458	Rajayod thalkalam varendenn paranjek...Stephen kalippilanu.katta kalippil.oru rakshayumilla..polich ponnu	positive	Rajayod thalkalam varenden paranjek...Stephen kalippilanu.katta kalippil.oru rakshayumilla..polich ponnu
+266	266	ml_sen_459	Ente lifil inneee varee... oru trailarum ithu poloru romaanjam thannittilla...! Vere level...!	positive	Ente lifil inneee varee... oru trailarum ithu poloru romaanjam thannittilla...! Vere level...!
+267	267	ml_sen_460	Anusitharak pakaram namitha pramod mathiyayrnu thoniyavar	neutral	Anusitarak pakaram namitha pramod mathiyayrnu thoniyavar
+268	268	ml_sen_461	302k likes...yeeeeeee....I will dance....kuuuu...koooo...vineethetan sound vivek oberoi...	positive	302k likes...yeeeeeee....I will dance....kuuuu...koooo...vineethetan sound vivek oberoi...
+269	269	ml_sen_462	Padam heavy.padam kandathinu Shesham trailer kanan vannavar	positive	Padam heavy.padam kandathinu Shesham trailer kanan vannavar
+270	270	ml_sen_464	Ee sound aanu marakkarde enkil marakkare apamanikkan edukkunna padam aayirikkum. Dress codellam apamanikkunna tharathila	negative	Ee sound aanu marakkarde enkil marakkare apamanikkan edukkunna padam aayirikkum. Dress codellam apamanikkunna tharathila
+271	271	ml_sen_465	priya dharshante vijaram muslimsinte slag eppolum inganeyanna....endhu dialoga boru aanu dialogue shaili mattuga...	negative	priya dharshante vijaram muslimsinte slag eppolum inganeyanna....endhu dialoga boru aanu dialogue shaili mattuga...
+272	272	ml_sen_466	Njn 6 vettam kandu.. Kandittum kandittum romancham maarunnilla	positive	Njn 6 vettam kandu.. Kandittum kandittum romancham maarunnilla
+273	273	ml_sen_467	MWONE ETH KALI VERAYA🤙MAMAGAAM VERA LVL MASSMARIKAM	positive	MWONE ETH KALI VERAYA🤙MAMAGAAM VERA LVL MASSMARIKAM
+274	274	ml_sen_475	Irakikko pakshe Stephen achayan ullidatholam kaalam ivide oru rajanum adhikam vazhan ponilla	negative	Irakikko pakshe Stephen achayan ullidatholam kaalam ivide oru rajanum adhikam vazhan ponilla
+275	275	ml_sen_477	Naalu bengaalikal vijaarcha theerunate ullu ninte Japan epic!	positive	Naalu bengaalikal vijaarcha theerunate ullu ninte Japan epic!
+276	276	ml_sen_478	ee padathinu reach kuravanu.Trailerum pora.Pottum ennulla karyam guarantee.pinne fans vannu enne choriyan nikkenda.Sathyam ithaanu	negative	ee padathinu reach kuravanu.Trailerum pora.Pottum ennulla karyam guarantee.pinne fans vannu enne choriyan nikkenda.Sathyam ithaanu
+277	277	ml_sen_481	Vineeth sreenivasan Chetante cinema aano...nkil padam kiduvarikkum	positive	Vineeth sreenivasan Chetante cinema aano...nkil padam kiduvarikkum
+278	278	ml_sen_482	All The Best Ikka... Njangal kathirikkunnu.. Ettan Fans	positive	All The Best Ikka... Njangal kathirikkunnu.. Ettan Fans
+279	279	ml_sen_484	eante ponnu ikka mass love mammookka	positive	ente ponnu ikka mass love mammootty
+280	280	ml_sen_488	ithipo kathiruna film othhu varunnod ariyla tension und.ettateum ilayathalapathiudeum padagal othhu randum high akanam atreulu.	positive	ithipo kathiruna film othhu varunnod ariyla tension und.ettateum ilayathalapathiudeum padagal othhu randum high akanam atreulu.
+281	281	ml_sen_489	Mamookaa look... oru rakshayum ellaa...	positive	Mamookaa look... oru rakshayum ellaa...
+282	282	ml_sen_490	Ufff onm prynilla power ikka.... by ettan fan	positive	Ufff onm prynilla power ikka.... by ettan fan
+283	283	ml_sen_493	Wow... Extraordinary trailer.. Eanna acting aanu ippolum njangada ikka.. Kode ninnavar palarum kali marannu tudangi ikka.. Muttanu.	positive	Wow... Extraordinary trailer.. Eanna acting aanu ippolum njangada ikka.. Kode ninnavar palarum kali marannu tudangi ikka.. Muttanu.
+284	284	ml_sen_494	Kondu ...Qataril vachu. Eni Nattil poyi kaanum...kaananam. BEHIND POLITICAL THRILLER	positive	Kondu ...Qataril vachu. Eni Nattil poyi kaanum...kaananam. BEHIND POLITICAL THRILLER
+285	285	ml_sen_495	22K   Dislike enthuttta pattiye ¥ SuPpER teaser	negative	22K Dislike enthuttta pattiye ¥ SuPpER teaser
+286	286	ml_sen_497	lalappan fansinte annakkil thooriya trailer 🤣🤣🤣🤣	negative	lalappan fansinte annakkil thooriya trailer 🤣🤣🤣🤣
+287	287	ml_sen_500	Enikku onnum kananda .. Angadu poliku ente itticha	positive	Enikku onnum kananda .. Angadu poliku ente itticha
+288	288	ml_sen_502	ikka thirichu vannu makkale <3 ini adiyude idiyude vedi pooram!!!!!	positive	ikka thirichu vannu makkale <3 ini adiyude idiyude vedi pooram!!!!!
+289	289	ml_sen_503	Nalla poli cinema maaas..padam mammookka polichadukki	positive	Nalla poli cinema maaas..padam mammookka polichadukki
+290	290	ml_sen_504	Churikayum chuzhati oru varavund massennonnum paranjaal pora maranamass      ikkaaaa	positive	Churikayum chuzhati oru varavund massennonnum paranjaal pora maranamass ikkaaa
+291	291	ml_sen_505	Mammukkaa	positive	Mammukkaa
+292	292	ml_sen_507	Ithu mass alla marana mass adipoli kumba konam....odiko heaters thirinjum marinjum odikkoooo	neutral	Ithu mass alla marana mass adipoli kumba konam....odiko heaters thirinjum marinjum odikkoooo
+293	293	ml_sen_509	Ponnikkaaa.  Kanditum kanditum mathivarunnilla engale...	positive	Ponnikkaaa. Kanditum kanditum mathivarunnilla engale...
+294	294	ml_sen_510	Satyathil kurachum koodi standard pratheekshichirunnu. Ithu  joshi  style. Kadha ithil ninnum manasilakamallo.	neutral	Satyathil kurachum koodi standard pratheekshichirunnu. Ithu joshi style. Kadha ithil ninnum manasilakamallo.
+295	295	ml_sen_513	Polichu mass alla marana massssss  ikkaaaaaaaaa	positive	Polichu mass alla marana masssssss ikkaaaaaaaaa
+296	296	ml_sen_515	Sunni chechi ullond padam one month enkilum ooodum orappaaa allenkil sunnichechi oodikkum	positive	Sunni chechi ullond padam one month enkilum ooodum orappaaa allenkil sunnichechi oodikkum
+297	297	ml_sen_516	Making videoyil ulla bgm koduthirunnu enkil polichenne But still	neutral	Making videoyil ulla bgm koduthirunnu enkil polichenne But still
+298	298	ml_sen_517	nothing but masss...making okke kidu..kadha koodi kiduvaayaal charithramaakum..	positive	nothing but masses...making okke kidu..kadha koodi kiduvaayaal charithramaakum..
+299	299	ml_sen_518	Dhaivam  marikkugayo    endhuvaade	negative	Dhaivam marikkugayo endhuvaada
+300	300	ml_sen_521	E trailernu dislike adikkunnavanmaarudae aa manassundalllo....oh.... Namikkaathae vayya	negative	E trailernu dislike adikkunnavanmaarudae aa manassundallo....oh.... Namikkaathae vayya
+301	301	ml_sen_522	Tamil fans like here !!!!	positive	Tamil fans like here!!!!
+302	302	ml_sen_523	polichu makkaleeeeeee...........    thanks ikka	positive	polichu makkaleeeeeee........... thanks ikka
+303	303	ml_sen_527	Guys unlike cheyyunavar Mr.Pandit fans aanue..deshyam pidichit karyamilla..	negative	Guys unlike cheyyunavar Mr.Pandit fans aanue..deshyam pidichit karyamilla..
+304	304	ml_sen_528	Malayalathinte evergreen yuthan pirannal aashamsakal Mammokka uyirrr	positive	Malayalathinte evergreen yuthan pirannal aashamsakal Mammokka uyirrr
+305	305	ml_sen_530	Nalla trailer thann njangale patichule  vendayirunnu moshamayi ikka fansine tholpichu	positive	Nalla trailer thann njangale patichule vendayirunnu moshamayi ikka fansine tholpichu
+306	306	ml_sen_532	BGM pwolich gopy sir .....ikka Katta waiting	positive	BGM pwolich gopy sir .....ikka Katta waiting
+307	307	ml_sen_533	Ithu party based cast based movie anengil adi pidi vedi anengil Ee padam poliyum.	negative	Ithu party based cast based movie anengil adi pidi vedi anengil Ee padam poliyum.
+308	308	ml_sen_535	Ejjaathi hardwork mammookka!!! Katta waiting padam onnu kaanan aayit	positive	Ejjaathi hard work mammookka!!! Katta waiting padam onnu kaanan aayit
+309	309	ml_sen_536	Njan lalettan mammokka randu perudeyum fan anu   Randupereyum orupole ishtom anu    Avar keralathinte muthaanu	positive	Njan lalettan mammokka randu perudeyum fan anu Randupereyum orupole ishtom anu Avar keralathinte muthaanu
+310	310	ml_sen_538	ithil premiere akunnathinu munbe dislike adich kalikana saddistukaleyoke enthaa cheyyaa.loka duranthangal hahaha	negative	ithil premiere akunnathinu munbe dislike adich kalikana saddistukaleyoke enthaa cheyyaa.loka duranthangal hahaha
+311	311	ml_sen_539	Mammooka Mass  gopi  sunder kidu  bgm	positive	Mammootty Mass gopi sundar kidu bgm
+312	312	ml_sen_540	Nalla rasam ubdae	positive	Nalla rasam ubdae
+313	313	ml_sen_545	Thilakan sir undayirunnengil innocentinu pakaram adehamayirunnene	neutral	Thilakan sir undayirunnengil innocentinu pakaram adehamayirirunnene
+314	314	ml_sen_546	Mammokka polichu adiki RAJA IS BACK	positive	Mammokka polichu adiki RAJA IS BACK
+315	315	ml_sen_550	271 dislike ara adichethennu ivide ellarkkumariyaam	negative	271 dislike ara adichethennu ivide ellarkkumariam
+316	316	ml_sen_552	Trailer kanditu hit aakumaenonum paeayunila pakshae Suraajaetantae Abhinayam kidukum	neutral	Trailer kanditu hit aakumaenonum paeayunila pakshae Suraajaetantae Abhinayam kidukum
+317	317	ml_sen_553	Mass enn paranjal pora... Marana mass	positive	Mass enn paranjal pora... Marana mass
+318	318	ml_sen_554	Yetra ayalum lucifer ne tholppikan kayila.. Ettan uyir	positive	Yetra ayalum lucifer ne tholppikan kayila.. Ettan uyir
+319	319	ml_sen_555	Fastest 100 K like is loading......  Stephen nedumbili	positive	Fastest 100 K like is loading...... Stephen nedumbili
+320	320	ml_sen_556	Heavy Stills onnum oru rekshem illa adipoli fdfs locked	positive	Heavy Stills onnum oru rekshem illa adipoli fdfs locked
+321	321	ml_sen_557	Ijjathi item Mammookka ningalk vayass 68 thanneyano	positive	Ijjathi item Mammookka ningalk vayass 68 thanneyano
+322	322	ml_sen_558	Madhuraraja ye kaal valara mikacha quality feel cheyyunnu.  A Mammookka fan.	positive	Madhuraraja ye kaal valara mikacha quality feel cheyyunnu. A Mammookka fan.
+323	323	ml_sen_560	Ithu ikkayude script aanu..   Uttopiya	negative	Ithu ikkayude script aanu.. Uttopiya
+324	324	ml_sen_562	Dayvu cheyth priyapettavare Kanni Akkaruth  over hype venda	neutral	Dayavu cheythu priyapettavar Kanni Akkaruth over hype venda
+325	325	ml_sen_564	Ettimani thakarkkum lalettan polichadukkum onathinu verarum aduthu polum ethilla urappu	positive	Ettimani thakarkkum lalettan polichadukkum onathinu verarum aduthu polum ethilla urappu
+326	326	ml_sen_567	Iriykatte mone oru kurhirapavan ente vaka feeling new era	positive	Iriykatte mone oru kurhirapavan ente vaka feeling new era
+327	327	ml_sen_568	Ettan kootiya koodoola adurappa end diloga id chirichu chavum	negative	Ettan kootiya koodoola adurappa end diloga id chirichu chavum
+328	328	ml_sen_570	Teaser kand trolliyavarkk trailer irakkiyitt madhurarajayude Madhura prethikaram	positive	Teaser kand trolliyavarkk trailer irakkiyitt madhurarajayude Madhura prethikaram
+329	329	ml_sen_571	Spr makkkalla odeyan vannu katta waiting	positive	Spr makkkalla odeyan vannu katta waiting
+330	330	ml_sen_573	Lalettane konde pattu super script aayirikum	positive	Lalettan konde pattu superscript aayirikkum
+331	331	ml_sen_574	evade kaanikuna avesham padam arangumbo theatril koodi onnu kaanicha upakaaram aerunu plzz	neutral	evade kaanikuna avesham padam arangumbo theatril koodi onnu kaanicha upakaaram aerunu plzz
+332	332	ml_sen_576	Njan karuthi padam mari postiyennu mammuka last vannappo samadanaayi	positive	Njan karuthi padam mari postiyennu mammuka last vannappo samadanaayi
+333	333	ml_sen_577	eattaaa ini 8 day engane urangum	neutral	eattaaa ini 8 day engane urangum
+334	334	ml_sen_578	Trailer kanda thanne Aliyan Ettunilayil pottumennu	negative	Trailer kanda thanne Aliyan Ettunilayil pottumennu
+335	335	ml_sen_581	Jimmittoli vaangale ninte ammede poottil chekuthan keri ookkunnu poy dislike adi	negative	Jimmittoli vaangale ninte ammede poottil chekuthan keri ookkunnu poy dislike adi
+336	336	ml_sen_584	Murali Gopi enna writerum...Prithviraj enna director.... Mohanlal poolathe actor vechu cheriya kalikkonnum nilkulaa.... echiri main item LOADING....	positive	Murali Gopi enna writerum...Prithviraj enna director.... Mohanlal poolathe actor vechu cheriya kalikkonnum nilkulaa.... echiri main item LOADING....
+337	337	ml_sen_587	20k dislike adichavan okke ethu guhayil irikkuvano entho	negative	20k dislike adichavan okke ethu guhayil irikkuvano entho
+338	338	ml_sen_591	Oru kidillan thriller movie ennu urappichu...  katta waiting Kalkki	positive	Oru kidillan thriller movie ennu urappichu... katta waiting Kalkki
+339	339	ml_sen_592	Ikka age ethreyaan enn chodikunilla ath parinjitt karyamilla enna ippozum ithoke egane sadhikunnu	positive	Ikka age ethreyaan enn chodikunilla ath parinjitt karyamilla enna ippozum ithoke egane sadhikunnu
+340	340	ml_sen_593	Adutha vishunu aduthu vekkam .... Assal padakkam aavum	negative	Adutha vishunu aduthu vekkam .... Assal padakkam aavum
+341	341	ml_sen_598	TvM massive thirichuvaravanalo	negative	TvM massive thirichuvaravanalo
+342	342	ml_sen_599	Katta Waiting ikka  Mamangam  Nov 21 FDFS	positive	Katta Waiting ikka Mamangam Nov 21 FDFS
+343	343	ml_sen_600	ഈശ്വര Comment idaan onnum kittinilallo FULL രോമാഞ്ചം	positive	Iswara Comment idaan onnum kittinilallo FULL thrill
+344	344	ml_sen_601	Lucifer 4 divasam kondu 50 kodi ayathu pole ....ithum 50 kodi avatte ennu njan prarthikkunnu...ennu lalettan fan	positive	Lucifer 4 divasam kondu 50 kodi ayathu pole ....ithum 50 kodi avatte ennu njan prarthikkunnu...ennu lalettan fan
+345	345	ml_sen_602	Super mass ailla poli mass look	positive	Super mass ailla poly mass look
+346	346	ml_sen_603	Ethre pravashyam kandu enn ariyilla.....MAMANGAM HISTORY OF THE BRAVE HISTORY THE  POWER HISTORY OF AN ERA....	positive	Ethra pravashyam kandu enn ariyilla.....MAMANGAM HISTORY OF THE BRAVE HISTORY THE POWER HISTORY OF AN ERA....
+347	347	ml_sen_606	Innu pokum lucifer kaanan katta thrill aanu	positive	Innu pokum lucifer kaanan katta thrill aanu
+348	348	ml_sen_609	Thamilnadu rajinisir	positive	Thamilnadu rajinisir
+349	349	ml_sen_613	Dislike adichal Ella Shemalesnoodum 9noodum . 28nu theatre IL baaa pooram Kanam	negative	Dislike adichal Ella Shemalesnoodum 9noodum . 28nu theater IL baaa pooram Kanam
+350	350	ml_sen_614	Eethe tendikalada....  Dislike adikyan varunne.	negative	Eethe tendikalada.... Dislike adikyan varunne.
+351	351	ml_sen_615	Oru rakshayum illa....ithokke kanumpol aanu mattu chilath okke eduth kinattil idan thonnunnath.....	positive	Oru rakshayum illa....ithokke kanumpol aanu mattu chilath okke eduth kinattil idan thonnunnath.....
+352	352	ml_sen_618	Murivetta simhathintte shyasam garjanthekal bayankaramayirunnu Vannu vannu avan vannuikkaa love you	positive	Murivetta simhathintte shyasam garjanthekal bayankaramayirunnu Vannu vannu avan vannuikkaa love you
+353	353	ml_sen_619	Trailor kandaal thanne ariyaam padam thamarthum	positive	Trailer kandal thanne ariyaam padam thamarthum
+354	354	ml_sen_621	1:56 Ee seen kand romancham vannavar  adichek	positive	1:56 Ee seen kand romancham vannavar adichek
+355	355	ml_sen_623	Uff  Romanjam.... Marana  mass	positive	Uff Romanjam.... Marana mass
+356	356	ml_sen_624	Namude ikkakum Rajakum suriya fansinte Ashamsakal	positive	Namude ikkakum Rajakum suriya fansinte Ashamsakal
+357	357	ml_sen_625	pritvimonum lalettanum pwolichutto. character selection superb. cinema superhitayi vijayikatte en nu njan prakthikum	positive	pritvimonum lalettanum pwolichutto. character selection superb. cinema superhitayi vijayikatte en nu njan prakthikum
+358	358	ml_sen_626	Raj ettan & mamooka ethu polikum	positive	Raj ettan & mamooka ethu polikum
+359	359	ml_sen_627	Dislike adikaan orupaad lalappan fan vannittund paavangal hahahahah	negative	Dislike adikaan orupaad lalappan fan vannittund paavangal hahahahah
+360	360	ml_sen_628	Tamil and Telugu padam pole aayalo... Don't kill malayalam movies reality	negative	Tamil and Telugu padam pole aayalo... Don't kill malayalam movies reality
+361	361	ml_sen_629	Dislike adichvnmar oombi kuthi irikathe ulluh	negative	Dislike adichvnmar oombi kuthi irikathe ulluh
+362	362	ml_sen_630	madura rajaku katta support njiangal lalettan fansindea	positive	madura rajaku katta support njiangal lalettan fansindea
+363	363	ml_sen_632	740 kuru potti	negative	740 kuru potti
+364	364	ml_sen_634	Oru katta fan is waiting	positive	Oru katta fan is waiting
+365	365	ml_sen_635	Padam Kandu....Oru Tamil Padam Kanda feel....Orupadu prethikshichu...Oru one man show and prithviraj etra tazhan patummo atrem tannnu	neutral	Padam Kandu....Oru Tamil Padam Kanda feel....Orupadu prethikshichu...Oru one man show and prithviraj etra tazhan patummo atrem tannnu
+366	366	ml_sen_638	ഇടിക്കട്ട waitingggg...vegam 8 mani aakkan pattumo....unsahikkable....	positive	Idikkata waitingggg...vegam 8 mani aakkan pattumo....unsahikkable....
+367	367	ml_sen_639	Like adichit button pottikandirnna bagiyam.... ikkaa..	positive	Like adichit button pottikandirnna bagiyam.... ikkaa..
+368	368	ml_sen_640	Dislike adicha thaayolikale adikendavark like cheyyanulla comment	negative	Dislike adicha thaayolikale adikendavark like cheyyanulla comment
+369	369	ml_sen_642	Enthayalum Nov 21 nu thanne kananam	positive	Enthayalum Nov 21 nu thanne kaanam
+370	370	ml_sen_643	Malayalathill edhuvare egane oru trailer kandittilla	positive	Malayalathill edhuvare egane oru trailer kandittilla
+371	371	ml_sen_645	Ikkayude aaa varavu kandittu box office theernnanna thonnunne	positive	Ikkayude aaa varavu kandittu box office theernnanna thonnunne
+372	372	ml_sen_646	Trailer kalaki ente ponnikkake happy birthday	positive	Trailer kalaki ente ponnikkake happy birthday
+373	373	ml_sen_649	Prakadanam kondum perfromace kondum elllavarum theatre thakarkan pokunna mamangam🤩🤩🤩🤩🤩🤩🤩🤩🤩.....unni mukundhan oru vazhi thiriv aavate ee movie	positive	Prakadanam kondum perfromace kondum elllavarum theater thakarkan pokunna mamangam🤩🤩🤩🤩🤩🤩🤩🤩🤩.....unni mukundhan oru vazhi thiriv aavate ee movie
+374	374	ml_sen_650	Enna padam ethillum high irakiya villian potti palisayi pinna ithe	negative	Enna padam ethillum high irakiya villian potti palisayi pinna ithe
+375	375	ml_sen_651	Tovino achayanodu ulla aradhana kandu like adichavarum.... Theatre poyee kanam enn vechavarum adikkk	positive	Tovino achayanodu ulla aradhana kandu like adichavarum.... Theater poyee kanam enn vechavarum adikkk
+376	376	ml_sen_652	Vere level trailer and bgm  ikka look powlii	positive	Vere level trailer and bgm ikka look powlii
+377	377	ml_sen_653	Adutha oru vedimarunnu ready ayitundu...eppo pottikanam ennu paranja mathi....lalunni fans and pottan  fans undo evide?	negative	Adutha oru vedimarunnu ready ayitundu...eppo pottikanam ennu paranja mathi....lalunni fans and pottan fans undo evide?
+378	378	ml_sen_654	Ee Padam odiyan Kandu niraasaeaya fansinte thallal aanennum Lalettante class movikalude ezhu ayalthu varilla ennum karurhunnavar like pls.	negative	Ee Padam odiyan Kandu niraasaeaya fansinte thallal aanennum Lalettante class movikalude ezhu ayalthu varilla ennum karurhunnavar like pls.
+379	379	ml_sen_655	Ikka padam color aakan sunny chechi ne vare erraki	neutral	Ikka padam color aakan sunny chechi ne vare erraki
+380	380	ml_sen_658	WOOOOOW  Mathi  Ithumathi  mammookkaa	positive	WOOOOOW Mathi Ithumathi mammookkaa
+381	381	ml_sen_659	Waiting  3pravashyam  kanum  releaseday	positive	Waiting 3 pravashyam kanum release date
+382	382	ml_sen_662	Dislike adicha colani membersin ente namaskaram. Feeling pucham	negative	Dislike adicha colani membersin ente namaskaram. Feeling pucham
+383	383	ml_sen_665	Onn parayan illa. Aadipoli. Mass ikka. Unni chettan polichu	positive	Onn parayan illa. Aadipoli. Mass ikka. Unni chettan polichu
+384	384	ml_sen_667	Tovinodee oru mass padathinuu vendi waiting aarnuu..  ethu polikuummm..	positive	Tovino Dee oru mass padathil vendi waiting aaru.. ethu polikuummm..
+385	385	ml_sen_668	VADAA aaa dialog vera level ane	positive	VADAA aaa dialogue vera level ane
+386	386	ml_sen_669	Njan Katta Lalettan aradhakananu. Ikkayude padathinu ella ashamsakalum.	positive	Njan Katta Lalettan aradhakananu. Ikkayude padathinu ella ashamsakalum.
+387	387	ml_sen_671	Adipoli teaser onnu parayan illa	positive	Adipoli teaser onnu parayan illa
+388	388	ml_sen_674	ithi varum rajavinta trailer matram iny pooram padathila	positive	ithu varum rajavinte trailer matram in pooram madathil
+389	389	ml_sen_676	Eeetu polikkkummmmm........ trailer polichu Enni onnu thala uyarti nadakkam........we...love  Mamookkaaa....................	positive	Eeetu polikkummmmm........ trailer polichu Enni onnu thala uyarti nadakkam........we...love Mamookkaaa................... .
+390	390	ml_sen_677	Suraj sir nigalku ithra athigam talent undu ennu eppolanu ariyunathu polichu	positive	Suraj sir nigalku ithra athigam talent undu ennu eppolanu ariyunathu polichu
+391	391	ml_sen_678	Stephen nedumbally oru cult aakum makkale	positive	Stephen nedumbally oru cult aakum makkale
+392	392	ml_sen_680	Trailer kidu kidu pakshe movie athippol kandariyaam	neutral	Trailer kidu kidu pakshe movie athippol kandariyaam
+393	393	ml_sen_681	Jayachettan keeee jayi.... Love u etta....	positive	Jayachettan keeee jayi.... Love u etta....
+394	394	ml_sen_682	ന്റമ്മോ ഇജ്ജാതി trailor.. Uffftrailor ethegilum.. Padam. Pwoliyo pwoli	positive	Ntammo Ijjati trailer.. Ufftrailor ethilum.. Padam. Poliyo poli
+395	395	ml_sen_683	Ekka trailer ethanel padham teatre pooraparambakkumallo.evdem kanum disliken marr	negative	Ekka trailer ethanel padham teatre pooraparambakkumallo.evdem kanum disliken marr
+396	396	ml_sen_684	രോമാഞ്ചം katta waiting for mamangam day november 21	positive	Romancham katta waiting for mamangam day november 21
+397	397	ml_sen_686	Itha pattacharayam pidikan varunnu.. Avan Madhura raja.. pazheya Gund kadha thanne scene mariyapol inganoke ayi	negative	Itha pattachayam pidikan varunnu.. Avan Madhura raja.. pazheya gund kadha thanne scene mariyapol inganoke ayi
+398	398	ml_sen_687	Ayyo ayyo Onnum Parayan illaa	positive	Ayyo ayyo Onnum Parayan illaa
+399	399	ml_sen_689	Romanjification  level !!   Uff  Lalettan & Prithvi !  Mass	positive	Romanization level!! Uff Lalettan & Prithvi ! Mass
+400	400	ml_sen_692	Jayasuriya polich entha mone lookum mundummadakki nadathoke laalettan thottupovumallo	positive	Jayasuriya polich entha mone lookum mundummadakki nadathoke laalettan thottupovumallo
+401	401	ml_sen_693	Over venda  Odiyanum ingane thanne aayirunnu	neutral	Over venda Odiyanum ingane thanne aayirunnu
+402	402	ml_sen_694	Powlichuu .but making video ethangalam kolam mayernnu ...	neutral	Powlichuu .but making video ethangalam kolam mayernnu ...
+403	403	ml_sen_695	5M  Ettanum pillarum katta stronga makkale	positive	5M Ettanum pillarum katta stronga makkale
+404	404	ml_sen_696	Makkale oru rakshayilla oru cheriya promo njan kandu trailerinte mass alla marana mass alla kolaa mass item loading	positive	Makkale oru rakshayilla oru cheriya promo njan kandu trailerinte mass alla marana mass alla kolaa mass item loading
+405	405	ml_sen_697	Kurach kathirunnenkil entha	positive	Kurach kathirunnenkil entha
+406	406	ml_sen_699	Ikka namihu ningale only Wold king	positive	Ikka namihu ningale only Wold king
+407	407	ml_sen_700	Enthylm 300 koli thallum muzhuvn fans.......	negative	Enthylm 300 koli thallum muzhuvn fans…….
+408	408	ml_sen_703	Padam kandit kidu aayi thoni trailer kaanunvr	positive	Padam kandit kidu aayi thoni trailer kaanunvr
+409	409	ml_sen_704	Avasanathe idi veendum veendum kandavar ethra und	positive	Avasanathe idi veendum veendum kandavar ethra und
+410	410	ml_sen_706	Malayalathinte mahanadan #Suriyafansinte ashamsakal🤝 Trailer looks massy!	positive	Malayalathinte mahanadan #Suriyafansinte ashamsakal🤝 Trailer looks massy!
+411	411	ml_sen_707	Suragaattadaa kidu luck   .   Qatar biggest shopping mall  watch my chanall	positive	Suragaattadaa kidu luck. Qatar biggest shopping mall watch my channel
+412	412	ml_sen_714	Eee padam oru above feel good movie aayirikkum een pratheekshikku...DILEEPETTAN. ..love you....	positive	Eee padam oru above feel good movie aayirikkum een ​​pratheekshikku...DILEEPETTAN. ..love you….
+413	413	ml_sen_716	ith nammude chekkan polikkum          #kalki #tovino	positive	ith nammude chekkan polikkum #kalki #tovino
+414	414	ml_sen_718	രാജ double അല്ല	positive	Raja is not double
+415	415	ml_sen_719	Wow   super look Mammookka	positive	Wow super look Mammookka
+416	416	ml_sen_721	Pulikku pakaram patti odande vere mattam onnum ella.	neutral	Pulikku pakaram patti odande vere mattam onnum ella.
+417	417	ml_sen_722	Kidillam... Lalettan maranna mass.....  prithvi... Direction... First time.. unbelievable...	positive	Kidillam... Lalettan maranna mass..... prithvi... Direction... First time.. unbelievable...
+418	418	ml_sen_723	shuger raja fance onnu virachu alle.ithokke endh varan pokunnathanu mone pooram	negative	sugar raja fance onnu vachu alle.ithokke enthu varan pokunnathinu mone pooram
+419	419	ml_sen_724	Ikka polechuu vendum .....marna mass anuu	positive	Ikka polechuu vendum .....marna mass anuu
+420	420	ml_sen_725	Happy big day ഇക്കാ  Love you.....	positive	Happy big day Ika Love you.....
+421	421	ml_sen_728	Maranamass trailer.....orupaad ishtamaayi.....Lalettan Prithvi combo pwolichadakkum....	positive	Maranamass trailer.....orupaad ishtamaayi.....Lalettan Prithvi combo pwolichadakkum....
+422	422	ml_sen_731	Bigbyl Great fathern undaya yamandan item... ith Vaarum kodikal	positive	Bigbyl Great fathern undaya yamandan item... with Vaarum kodical
+423	423	ml_sen_737	Wokinu edayilum vannu trailer kanunna arokeyund	positive	Wokinu edayilum vannu trailer kanunna arokeyund
+424	424	ml_sen_739	Nanippa ethra vattayi ith kananath enta ikka mass kanikkan ikkana kayinnale Vera alollu	positive	Nanippa ethra vattayi ith kananath enta ikka mass kanikkan ikkana kayinnale Vera alollu
+425	425	ml_sen_740	Fdfs kerunnavr adikk stephen nedumballikk like ..... ettan kolakolli mass.... with class	positive	Fdfs kerunnavr adikk stephen nedumballikk like ..... ettan kolakolli mass.... with class
+426	426	ml_sen_742	Kidu kidilan trailor. Lalettan rocks  L rocks...	positive	Kidu kidilan trailer. Lalettan rocks L rocks...
+427	427	ml_sen_743	Trailer pora . Disappointed     Padam nannayal mathiyarunnu	neutral	Trailer Pora. Disappointed Padam nannayal mathiyarunnu
+428	428	ml_sen_747	Theater thufaaan aakan ethil kooduthal onum venda	positive	Theater thufaan aakan ethil koodhuthal onnum venda
+429	429	ml_sen_748	Mammmookka no words.katta support to GANAGANDHARVAN . Kalasadhan ullasinu janmadhinashamsakal. Pinne pisharody	positive	Mammmookka no words.katta support to GANAGANDHARVAN. Kalasadhan ullasinu janmadhinashamsakal. Pinne pisharody
+430	430	ml_sen_749	Rameshettante manoharamaya directionil oru athi manoharamaya oru filim aayirikum gaanagandharvanurappund	positive	Rameshettante manoharamaya directionil oru athi manoharamaya oru filim aayirikum gaanagandharvanurappund
+431	431	ml_sen_751	Poli trailer .   feeling രോമാഞ്ചം	positive	Poli trailer. feeling thrill
+432	432	ml_sen_752	Padam hit ahnu.. kaaranam ithinte producer Vineethettan aanu	positive	Padam hit ahnu.. kaaranam ithinte producer Vineethettan aanu
+433	433	ml_sen_753	Arenkilum poi aa  srreeeekumaarane onnu vilich kaanich kodukkedoo  entha  etha  cinemannu  .....&&&&@@@	negative	Arenkilum poi aa srreeekumaarane onnu vilich kaanich kodukkedoo entha etha cinemannu .....&&&&@@@
+434	434	ml_sen_754	Oru rakshayilla mass trailer!!!  Mammookka 🥰	positive	Oru rakshayilla mass trailer!!! Mammookka 🥰
+435	435	ml_sen_755	Avarage aakana sadiatha tovino ishtam	neutral	Avarage aakana sadiatha tovino ishtam
+436	436	ml_sen_756	Marana mass pwolichu kolakollii.... Kidu... No words to express	positive	Marana mass pwolichu kolakollii.... Kidu... No words to express
+437	437	ml_sen_757	MAMMUKKA FANS LIKE ADI Mammukka uff vere level	positive	MAMMUKKA FANS LIKE ADI Mammukka uff vere level
+438	438	ml_sen_758	Varunnath oru kidu item....  A10 teams  stand vidanam	positive	Varunnath oru kudu item.... A10 teams stand vidhanam
+439	439	ml_sen_759	Nalla kidukkachii trailer... Ikka love uuu...	positive	Nalla kidukkachii trailer... Ikka love uuu...
+440	440	ml_sen_760	aaa dislike adikkunnavanmar verarumalla complete actorinte sperm	negative	aaa dislike adikkunnavanmar verarumalla complete actorinte sperm
+441	441	ml_sen_761	Lalettan Vere level Plus Rajuvettan Direction  And Tovino Mass	positive	Lalettan Vere level Plus Rajuvettan Direction And Tovino Mass
+442	442	ml_sen_762	Aaruvaadee dislike adich ponath ithrakk kazhappoo	negative	Aaruvaadee dislike adich ponath ithrakk kazhappoo
+443	443	ml_sen_763	Katta ikka fan aahnu...but kidukachi trailer...FDFS kandirikum	positive	Katta ikka fan aahnu...but kidukachi trailer...FDFS kandirikum
+444	444	ml_sen_764	Paringgiyude munbhil thalakumbit nikkaan kunnjaalik patulla....appo aara muttu madakkiywth(rss) thannje...cherupp nakkikal...  Kaanada punnjara makkale...musalmaante chankoottam....	negative	Paringgiyude munbhil thalakumbit nikkaan kunnjaalik patulla....appo aara muttu madakkiywth(rss) thannje...cherupp nakkikal... Kaanada punnjara makkale...musalmaante chankoottam....
+445	445	ml_sen_766	Ethra kandittum mathiyakunnilla trailer. Athraykku kidu . Lal sir nte makeover athigambheeram.	positive	Ethra kandittum mathiyakunnilla trailer. Athraykku kidu. Lal sir nte makeover athigambheeram.
+446	446	ml_sen_767	nalla trailer  ini ennathina padam kanunne	positive	nalla trailer ini ennathina padam kanunne
+447	447	ml_sen_768	Yenthina aa manjvine ithilekku valichirakkiyathu aval undayathukondu padam kananulla aa thrill poyi	negative	Yenthina aa manjvine ithilekku valichirakkiyathu aval undayathukondu padam kananulla aa thrill poyi
+448	448	ml_sen_769	Nalla oru police movie kanan orungikko	positive	Nalla oru police movie kanan orungikko
+449	449	ml_sen_770	Onnum.. Parayaan.. Illaa... Leavl... Levalll...	positive	Onnum.. Parayaan.. Illaa... Leavl... Levalll...
+450	450	ml_sen_771	Rajauda kalii enum keralam kannan pokunnaa olluu🤩🤩	positive	Rajauda kalii enum keralam kannan pokunnaa olluu🤩🤩
+451	451	ml_sen_773	Itchy poloru trailer ithuvare kandittillaa ini kanumonnu ariyillaa kinnnaammkaachiii polichuuuu	positive	Itchy poloru trailer ithuvare kandittillaa ini kanumonnu ariyillaa kinnnaammkaachiii polichuuuu
+452	452	ml_sen_776	Ee idaik irangiyathil  best trailer in Malayalam movie	positive	Ee idaik irangiyathil best trailer in Malayalam movie
+453	453	ml_sen_777	Vikruthiyude vijayathinu shesham veendum prekshakare akamshayilakkikond adutha padam Android Kunjappan..Awaiting 🥰🥰🥰	positive	Vikruthiyude vijayathinu shesham veendum prekshakare akamshayilakkikond adutha padam Android Kunjappan..Awaiting 🥰🥰🥰
+454	454	ml_sen_780	Lokha cinimayude thara rajavu nammude lalettan...	positive	Lokha cinimayude thara rajavu nammude lalettan...
+455	455	ml_sen_783	Ethil vann dislike adikkunna makalkku epo thane kuru potti thudangiyalo	negative	Ethil vann dislike adikkunna makalkku epo thane kuru potti thudangiyalo
+456	456	ml_sen_784	Kandu....nalla movie....Suraj oru rekshayumilla.....jeevich kanichu.... award urappa....nalla movie....comedy + love + Sad.....kunjappan Pwoliya.....	positive	Kandu....nalla movie....Suraj oru rekshayumilla.....jeevich kanichu....award urappa....nalla movie....comedy + love + Sad.....kunjappan Pwoliya. ....
+457	457	ml_sen_785	Rajuetan direction kidilanavumenn ee trailer kandal urappikkam.. oru rakshayumilla	positive	Rajuetan direction kidilanavumenn ee trailer kandal urappikkam.. oru rakshayumilla
+458	458	ml_sen_786	Aah...kidukki....teaserile niraasha...trailerum bomma paatumothukki..... Ss...i am thrilled...	positive	Aah...kidukki....teaserile niraasha...trailerum bomma paatumothukki..... Ss...i am thrilled...
+459	459	ml_sen_788	Mass  Ikka  Terror bgm Ithu pwolikum	positive	Mass Ikka Terror bgm Ithu pwolikum
+460	460	ml_sen_789	Malappurathum kozhikkodumula jhangal eebashakett chirich mann kappi.. marakkarenna deerayodhavinte shabdam inganeyalla. Vendath.... ith mimikrikkar stegil avatharippikunna comedy paripadipoleyanallo.. ha...	negative	Malappurathum kozhikkodumula jhangal eebashakett chirich mann kappi.. marakkarenna deerayodhavinte shabdam inganeyalla. Vendath.... ith mimikrikkar stegil avatharippikunna comedy paripadipoleyanallo.. ha...
+461	461	ml_sen_790	Makale ith polikum ikkaaa love you	positive	Makale ith polikum ikkaaa love you
+462	462	ml_sen_791	Laletta Raju Etta all the best	positive	Laletta Raju Etta all the best
+463	463	ml_sen_793	Prithvi yude memories um Ekka yude big b yum orimich kalicha poale	positive	Prithvi yude memories um Ekka yude big b yum orimich kalicha poale
+464	464	ml_sen_794	Jayettante punyalanu sesham trissur slangilulla hitakum ethu	positive	Jayettante punyalanu sesham trissur slangilulla hitakum ethu
+465	465	ml_sen_798	Ethu Pwolikum  Mammookha  BGM Verai level	positive	Ethu Pwolikum Mammookha BGM Verai level
+466	466	ml_sen_799	evideyokeyo oru pulimurugan touch eniku mathramano thonniyathu	neutral	evideyokeyo oru pulimurugan touch eniku mathramano thonniyathu
+467	467	ml_sen_802	407 dislike haaa oka mumuty fans ayerikyum kastam	negative	407 dislike haaa oka mumuty fans ayerikyum kastam
+468	468	ml_sen_803	Mass kanikkan mle palettan kayinjje vera aalullu####	positive	Mass kanikkan mle palettan kayinjje vera aalullu####
+469	469	ml_sen_804	veendum veendum triler kannunavar like adik evide	positive	veendum veendum thriller kannunavar like adik evide
+470	470	ml_sen_806	Vallatha jathi trailer onnum pidikittiyilla prithivi brilliance	positive	Vallatha jathi trailer onnum pidikittiyilla prithivi brilliance
+471	471	ml_sen_807	Trailer kand kuru potti olich ippozhe degrading thodangi entha avastha ikka fans ichiri ulupp	negative	Trailer kand kuru potti olich ippozhe degrading thodangi entha avastha ikka fans ichiri ulupp
+472	472	ml_sen_808	Lucifer kandu kidilol kidilam Ippo Katta Waiting for Raja	positive	Lucifer kandu kidilol kidilam Ippo Katta Waiting for Raja
+473	473	ml_sen_809	10 മില്യൺ ആവണം  love you mammukkaa 🥰🥰🥰🥰🥰	positive	It should be 10 million, love you mammukkaa
+474	474	ml_sen_810	Njan Oru lalettan fan aaanu...... Ithu Oru rakshayum illa mammoka heavy masss	positive	Njan Oru lalettan fan aaanu...... Ithu Oru rakshayum illa mammoka heavy masses
+475	475	ml_sen_811	Dislikes inde 100 alla 200 madangu likes adikkum ..athan lalettande power	positive	Dislikes inde 100 alla 200 madangu likes adikkum ..athan lalettande power
+476	476	ml_sen_812	Ithiloke vannu dislike adikunnavane okke namikanam	positive	Ithiloke vannu dislike adikunnavane okke namikanam
+477	477	ml_sen_813	Ith kandapo ronchaaamam Enik matram aanoo vanne	positive	Ith kandapo ronchaaamam Enik matram aanoo vanne
+478	478	ml_sen_815	dislike adicha verum 10k   m@.nmar  aarde fans aanenn parayandellooo	negative	dislike adicha verum 10k m@.nmar aarde fans aanenn parayandellooo
+479	479	ml_sen_816	Ethra thavana kandennu enk polum ariyilllaaaa	positive	Ethra thavana kandennu enk polum ariyilllaaaa
+480	480	ml_sen_817	Padam kanda shesham trailer kandathukondu oru aaswasam.	positive	Padam kanda shesham trailer kandathukondu oru aaswasam.
+481	481	ml_sen_819	Its not a trailer its a ultsavam	positive	It's not a trailer it's a utsavam
+482	482	ml_sen_823	3 times continue kandavar onnu ivde vanne..nedumplly rock	positive	3 times continue kandavar onnu video vanne..nedumpally rock
+483	483	ml_sen_827	Rajamanikyam alpam international aakiyal lucifer pole irikkum.... enne pidichu mammoookka fan aaakaruthu.. veruthe onnu thoni athre ullu	neutral	Rajamanikyam alpam international aakiyal lucifer pole irikkum.... enne pidichu mammookka fan aaakaruthu.. veruthe onnu thoni athre ullu
+484	484	ml_sen_829	Haters dislike ... Paavo ithrakkum pediyaano oru padavam verunne... Kaishttam haters🤣	negative	Haters dislike ... Paavo ithrakkum pediyaano oru padavam verunne... Kaishttam haters🤣
+485	485	ml_sen_832	Rajuettan oru rekshayumillatto...... Direction pakka...& Lalettan as usual marana mass performance	positive	Rajuettan oru rekshayumillatto...... Direction pakka...& Lalettan as usual marana mass performance
+486	486	ml_sen_834	Trailer 1 rekshem illah katta wi8 ing	positive	Trailer 1 rekshem illah katta wi8 ing
+487	487	ml_sen_836	Ikka massmamangam pwolikkum. Ikkade adutha 100 cr movie. Urappicho	positive	Ikka massmamangam pwolikkum. Ikkade adutha 100 cr movie. Urappicho
+488	488	ml_sen_844	Padam hit laleetan fans like adi	positive	Padam hit lalettan fans like adi
+489	489	ml_sen_846	first coment ..laletta love u...Raju Chetta love u....	positive	first comment ..laletta love u...Raju Chetta love u....
+490	490	ml_sen_849	Moonure enthayalum adikkila erunoore Kodi adukateenne ashamshikunu	neutral	Moonure enthayalum adikkila erunoore Kodi adukateenne ashamshikunu
+491	491	ml_sen_850	Ith bumber hit aavum enn urappullavar	positive	Ith bumber hit aavum enn urappullavar
+492	492	ml_sen_851	രോമാഞ്ചം @Peak level #Lucifer  ejjaathi!!...	positive	Thrilling @Peak level #Lucifer ejjaathi!!…
+493	493	ml_sen_861	ഇജ്ജാതി BGM..  Power Full Mass Entertainer Loading......	positive	Ijjati BGM.. Power Full Mass Entertainer Loading......
+494	494	ml_sen_862	This is interesting.....ikka polikku ikka.....all the best from Lalettan Fans	positive	This is interesting.....ikka polikku ikka.....all the best from Lalettan Fans
+495	495	ml_sen_863	Trailer kidu mass marana mass.  Ee padam recordukal thoothuvarrum	positive	Trailer kidu mass marana mass. Ee padam recordukal thoothuvarrum
+496	496	ml_sen_866	Ntammo polichu..oru rakshayum illa...from lalettan fan...	positive	Ntammo polichu..oru rakshayum illa...from lalettan fan...
+497	497	ml_sen_867	Idivett sugunan evide athumkoode venamrnn trailer pwlichu	positive	Idivett sugunan evide athumkoode venamrnn trailer pwlichu
+498	498	ml_sen_868	Dislike adichavanmar enth kandittanavo......ee trailer thanne aano aavo kandath....	negative	Dislike adichavanmar enth kandittanavo......ee trailer thanne aano aavo kandath....
+499	499	ml_sen_869	LALETTAN VIKARAMALLA NAMMUDE AHAGARAMANE  LOVE YOU LALETTA	positive	LALETTAN VIKARAMALLA NAMMUDE AHAGARAMANE LOVE YOU LALETTA
+500	500	ml_sen_871	trailer  marana  mass  mammoka  magastar	positive	trailer marana mass mammootty megastar
+501	501	ml_sen_872	Prithivraj koodi undayirunnel vere level aayene	neutral	Prithviraj koodi undayirunnu vere level aayenge
+502	502	ml_sen_873	Katta waiting manh ini verum 8 min	positive	Katta waiting manh ini verum 8 min
+503	503	ml_sen_874	Adipoli...... cinema ini kanenda karyamillla	negative	Adipoli...... cinema in kannada karyamilla
+504	504	ml_sen_876	trailer  verunathin munbe ore kariym parayam..   ee onam ettanum pillerum agade edukkuva	positive	trailer verunathin munbe ore kariym parayam.. ee onam ettanum pillerum agade edukkuva
+505	505	ml_sen_877	Jayettante oru idi padam kanditt kure naalayi ithil polikkum	positive	Jayettante oru idi padam kanditt kure naalayi ithil polikkum
+506	506	ml_sen_879	Neerali release date epozha makkale ..... Perunnal Derrick abraham angu eduthu makkale	positive	Neerali release date epozha makkale ..... Perunnal Derrick abraham angu eduthu makkale
+507	507	ml_sen_880	Ikka pwolikum from an ettan fan ente ponno Glamour enne paranja ikka ane example style ka baap	positive	Ikka pwolikum from an ettan fan ente ponno Glamor enne paranja ikka ane example style ka baap
+508	508	ml_sen_881	Singa Thslaivaaaaaaikkkkka katta w8ngn 8 manikk vendi nthoru kaaathiripa vaishakh annna onnum eluppam relsees cheyyney	positive	Singa Thslaivaaaaaaikkkka katta w8ngn 8 manikk vendi nthoru kaaathiripa vaishakh anna onnum eluppam relsees cheyney
+509	509	ml_sen_882	compelete mass making oru rakshayumilla.  Raju ettan mass vimarshichavare vayi adappicha shilamea ollu raju ettanu	positive	Compelete mass making oru rakshayum illa. Raju ettan mass vimarshichavare vayi adappicha zalamea ollu raju ettanu
+510	510	ml_sen_883	Yadhaartha kadha	negative	Yadhaartha kadha
+511	511	ml_sen_884	തലൈവാ ...🤩🤩  #Raja.. maduraraja..  20 Mins To Go !!! 🤩  ```Get Ready Megastar Fans```	positive	Thalaiwa ...🤩🤩 #Raja.. maduraraja.. 20 Mins To Go !!! 🤩 ``Get Ready Megastar Fans''
+512	512	ml_sen_885	Nth prahasanam aan    Enik ee trailer ishta pettilaa	negative	Nth prahasanam aan Enik ee trailer ishta pettilaa
+513	513	ml_sen_892	ee chengayikk 68 aano alla 28 aano ejjathi enrgy  kandtt kili paariya pole	positive	ee chengayikk 68 aano alla 28 aano ejjathi enrgy kandtt kili paariya pole
+514	514	ml_sen_893	Ithu njan 10il kooduthal  kandu	positive	Ithu njan 10il koodhuthal kandu
+515	515	ml_sen_895	Kanditt nalla quality olla padam aann thonnunnud	positive	Kanditt nalla quality olla padam aann thonnunnud
+516	516	ml_sen_896	YouTube haag aayi makkala all the best mommookka from rajuaattan  (suryaya) fans.	positive	YouTube haag aayi makkala all the best mommookka from rajuaattan (suryaya) fans.
+517	517	ml_sen_897	Ikkaaaaa katta waiting.. Ini kurach nal koodi	positive	Ikkaaaaa katta waiting.. Ini kurach nal koodi
+518	518	ml_sen_900	Padam kandu...Average movie...Pokkiri raja far better than Madhura raja....Mammukka and salim kumar kidukki	neutral	Padam kandu...Average movie...Pokkiri raja far better than Madhura raja....Mammukka and salim kumar kidukki
+519	519	ml_sen_901	Vijay baby sir adipoli trailer sir.....	positive	Vijay baby sir adipoli trailer sir.....
+520	520	ml_sen_902	inni Kanji chodichu Arum varandaa....Assalu Biriyani thanne Thannittund.         Lucifer	positive	inni Kanji chodichu Arum varandaa....Assalu Biriyani thanne Thannittund. Lucifer
+521	521	ml_sen_903	Oru rakshayilla pwoli Ikka n Ikkade dialogue vere level	positive	Oru rakshayilla pwoli Ikka n Ikkade dialogue vere level
+522	522	ml_sen_906	Last scene kalakki.... Can't wait to watch	positive	Last scene kalakki.... Can't wait to watch
+523	523	ml_sen_907	poliyalle  adi like ikka fans onn kand nokk	positive	poliyalle adi like ikka fans on and nokk
+524	524	ml_sen_908	Ellavrum head set upayogichu kelk	positive	Ellavrum head set upayogichu kelk
+525	525	ml_sen_913	H b d mammokkka.... Best actor ooormavannavar ndoo.....	positive	Hbd mammookka.... Best actor ooormavannavar ndoo.....
+526	526	ml_sen_914	Very nice .mammookka muthaaanu  appo njan fds urappichu.....	positive	Very nice .mammookka muthaaanu appo njan fds urappichu.....
+527	527	ml_sen_915	Arya unniettan Rajuvettan ikka athu onnuonnaraa combination annu makkalee	positive	Arya unniettan Rajuvettan ikka athu onnuonnaraa combination annu makkalee
+528	528	ml_sen_921	1 hour 5 lakh viewrs maamaangam rocks	positive	1 hour 5 lakh views mamangam rocks
+529	529	ml_sen_922	Ithore nalla padam aaakatte enne praaarthikkunnu Poli trailer	positive	Ithore nalla padam aaakatte enne praaarthikkunnu Poli trailer
+530	530	ml_sen_923	13k dislike kodutha yethu mire** adaaa	positive	13k dislike kodutha yethu mire** adaaa
+531	531	ml_sen_924	Kidukki powlichu oru rekshayamilla onnum parayanilla	positive	Kidukki powlichu oru rekshayamilla onnum parayanilla
+532	532	ml_sen_927	Kandittum kandittum mathi varunnillaalo ee sangathi	positive	Kandittum kandittum mathi varunnillaalo ee sangathi
+533	533	ml_sen_928	Vysakh aalle aal...telugu padam kaanunnathum ithum ellaam oru pole thanne appol...	neutral	Vysakh aalle aal...telugu padam kaanunnathum ithum ellaam oru pole thanne appol...
+534	534	ml_sen_929	Nalla viewsum subscribe um ulla channelil vidooooo trailar. Ok	positive	Nalla viewsum subscribe um ulla channelil vidooooo trailer. Okay
+535	535	ml_sen_930	iniyan muthe mamangam malayalathinte maha mamangam  ente ponnu enikk vayyyoooooooo mammoooookkkkka	positive	iniyan muthe mamangam malayalathinte maha mamangam ente ponnu enikk vayyyoooooooo mammooookkkkkka
+536	536	ml_sen_934	Annyayam not only a single mass political drama	positive	Annyayam not only a single mass political drama
+537	537	ml_sen_936	Ennum ee trailer kandavarr undo. Katta waiting	positive	Ennum ee trailer kandavarr undo. Katta waiting
+538	538	ml_sen_937	Look	neutral	Look
+539	539	ml_sen_938	kidukki kalakki superettante ikkaikall the best	positive	kidukki kalakki superettante ikkaikall the best
+540	540	ml_sen_939	Aa 1.3K dislike adicha naarikal aaranne ivdareyem PARANJE padippikanda kaaryamillallo le?	negative	Aa 1.3K dislike adicha naarikal aaranne ivdareyem PARANJE padippikanda kaaryamillallo le?
+541	541	ml_sen_941	THIS DEAL WITH DEVIL ITH ORU POLI POLIKKUM	positive	THIS DEAL WITH DEVIL ITH ORU POLI POLIKKUM
+542	542	ml_sen_945	Trailer kandappo thannea cinema kannan thonni.katta waiting	positive	Trailer kandappo thannea cinema kannan thonni.katta waiting
+543	543	ml_sen_946	ikkaude MADHURARAJAKKU  VIJAY FANS KANJIRAPPALLY UDE ELLA AASHAMSAKALUM	positive	ikkaude MADHURARAJAKKU VIJAY FANS KANJIRAPPALLY UDE ELLA AASHAMSAKALUM
+544	544	ml_sen_948	Enttammooo poliii polii trailer  ee X'mas pullu giri n Team kondu povum  No doubt jayeattan Mass 🤘	positive	Enttammooo poliii polii trailer ee X'mas pullu giri n Team kondu povum No doubt jayeattan Mass 🤘
+545	545	ml_sen_949	Ith pwolikkum ennu urappullavar like adikkuka	positive	Ith pwolikkum ennu urappullavar like adikkuka
+546	546	ml_sen_951	Idi vettu sugunan illatathu valare moshamayi poyi...	negative	Idi vettu sugunan illatathu valare moshamayi poyi...
+547	547	ml_sen_953	Malayalam kandathil vechu ettavum adar trailer	positive	Malayalam kandathil vechu ettavum adar trailer
+548	548	ml_sen_955	Pokkiriraja verum trailer mathram.... Picture abhi be bakki he Bhai.... Ini rajayyde varavanu.... Orungi irunno....	negative	Pokkiriraja verum trailer mathram.... Picture abhi be bakki he Bhai.... Ini rajayyde varavanu.... Orungi irunno....
+549	549	ml_sen_958	Ithu enthaada serial aah? 🤭🤭🤭 pani nirthi podappa 🤣🤣🤣	negative	Ithu enthaada serial aah? 🤭🤭🤭 pani nirthi podappa 🤣🤣🤣
+550	550	ml_sen_960	ഞാൻ ഒരു മോഹൻലാൽ ഫാൻ ann  athukomd pryuvalla trailer polich	positive	I am a mohanlal fan ann athukomd pryuvalla trailer polich
+551	551	ml_sen_965	lalettan ..vere levelaanu .  massss....🤩🤩🤩	positive	lalettan ..vere level aanu . mass....🤩🤩🤩
+552	552	ml_sen_967	Onnum venda ....ikkade aaa sound ....oh enjadhi basss	positive	Onnum venda ....ikkade aaa sound ....oh enjadhi bass
+553	553	ml_sen_968	Peranbilum yathrayilum ingeru ithengana abhinayichu....maassinu maassum claassinu claassum ....ikka vere level thanne....	positive	Peranbilum yathrayilum ingeru ithengana abhinayichu....maassinu maassum claassinu claassum ....ikka vere level thanne....
+554	554	ml_sen_969	pullikku 68 aano 18 aano outstanding body language	positive	pullikku 68 aano 18 aano outstanding body language
+555	555	ml_sen_972	Ethu pulimuruganaano  Ha ha ha .....	negative	Ethu pulimuruganaano Ha ha ha .....
+556	556	ml_sen_973	Ikkauda oru Mikacha movie thannayairikkum ithu urappuu MA- angam	positive	Ikkauda oru Mikacha movie thannayairikkum ithu urappuu MA- angam
+557	557	ml_sen_977	Nerathe 3M aarunnu... Ithrapettannu 4M aayooo....   ettan thaan vismayam.	positive	Nerathe 3M aarunnu... Ithrapettannu 4M aayooo.... ettan thaan vismayam.
+558	558	ml_sen_979	Mohanlal fans like here. Trailer maran mass. Uff kidu	positive	Mohanlal fans like here. Trailer maran mass. Uff kid
+559	559	ml_sen_980	kolaam.. nala randu thriller aanalo iprashyam orumich irangaan ponath...  nice teaser mammukkaye kanaan pateela. .. DOP and edit	positive	kolaam.. nala randu thriller aanalo iprashyam orumich irangaan ponath... nice teaser mammukkaye kanaan pateela. .. DOP and edit
+560	560	ml_sen_981	Enne pole katta waiting ayi nikunavar adi oru	positive	Enne pole katta waiting ayi nikunavar adi oru
+561	561	ml_sen_982	Last aaa “THALAIVAAAA”viliyil goosebumps kittiyavarkk like adikkanullla comment	positive	Last aaa “THALAIVAAAA” viliyil goosebumps kittiyavarkk like adikkanullla comment
+562	562	ml_sen_983	Ithoru baahubaliyo kgf oo alla...!!! Ithu orae oru mammaankam	positive	Ithoru baahubaliyo kgf oo alla...!!! Ithu orae oru mammaankam
+563	563	ml_sen_984	Vere level trailer  Malayala cinemaye  vere level ethikkum	positive	Vere level trailer Malayalam cinema vere level ethikkum
+564	564	ml_sen_986	Oru rakshyum ellaa bgm hats off gopi sundar chettaaa	positive	Oru rakshyum ellaa bgm hats off gopi sundar chettaaa
+565	565	ml_sen_988	Ende ponnooo hvy item love you mammukka	positive	Ente ponnu hot item love you mammukka
+566	566	ml_sen_989	Unda enna peru kettapo	positive	Unda enna peru kettapo
+567	567	ml_sen_992	Fight scenes muzhuvan hvy  aayittind	positive	Fight scenes muzhuvan hvy aayittind
+568	568	ml_sen_994	Kollam... Avasaanam odiyan manikyane pole avadhirunna mathi.. 🤪	neutral	Kollam... Avasaanam odiyan manikyane pole avadhirunna mathi.. 🤪
+569	569	ml_sen_995	njan parayunnu eetavum valiya big flop aayirikkum	negative	njan parayunnu eetavum valiya big flop aayirikkum
+570	570	ml_sen_997	Mammookka uyir like adichu pottikada makkale	positive	Mammookka uyir like adichu pottikada makkale
+571	571	ml_sen_999	Ee visula marakrille alla.ore english movie de trailer aane.but dailogue same ane	neutral	Ee visula marakrille alla.ore english movie de trailer aane.but dailogue same ane
+572	572	ml_sen_1002	Oru adipoli COMEDY + THRILLER aavumenne preteekshikunnu	positive	Oru adipoli COMEDY + THRILLER aavumenne preteekshikunnu
+573	573	ml_sen_1003	Malayalam cinema technical aayi orupaad uyarattee. Valiya budget quality films iniyum ithe pole undavatte.	positive	Malayalam cinema technical aayi orupaad uyarattee. Valiya budget quality films iniyum ithe pole undavatte.
+574	574	ml_sen_1005	Oru rakshayumilla poli cinema mammoka polichadukki	positive	Oru rakshayumilla poli cinema mammoka polichadukki
+575	575	ml_sen_1006	Padam kand	positive	Padam kand
+576	576	ml_sen_1007	Njangal Ikka Fansinte Swantham Ettan . DILEEPETTAN	positive	Njangal Ikka Fansinte Swantham Ettan . DILEEPETTAN
+577	577	ml_sen_1009	malayalikalude rakthathil alinja peru...mamukaaa....ith polikkum..Mega Mass Movie from One and Only Megastar..	positive	malayalikalude rakthathil alinja peru...mamukaaa....ith polikkum..Mega Mass Movie from One and Only Megastar..
+578	578	ml_sen_1010	trailer kollam but oru tamil movie remake anu edh 80% proof	neutral	trailer kollam but oru tamil movie remake anu edh 80% proof
+579	579	ml_sen_1011	Mammokkaaaaa .. marana mass look ...kiduveey	positive	Mammokkaaaaa .. marana mass look ...kiduveey
+580	580	ml_sen_1012	Immathiri oru tovino padathin waiting aarnn.......achayan polikkum .........mass Padam .......	positive	Immathiri oru tovino padathin waiting aarnn.......achayan polikkum .........mass Padam .......
+581	581	ml_sen_1014	12:00 pidich ninn eni sugayitt kidann uranga  eni release n vendi iam waiting	positive	12:00 pidich ninn eni sugayitt kidann uranga eni release n vendi iam waiting
+582	582	ml_sen_1015	Copy cheythathu moshamayi poi chethatho cheythu korachu nannayi cheyyamayirunnu	negative	Copy cheythathu moshamayi poi chethatho cheythu korachu nannayi cheyyamayirunnu
+583	583	ml_sen_1016	Teaser kandappa kittiya mass feel trailer l miss cheyyand	neutral	Teaser kandappa kittiya mass feel trailer l miss cheyyand
+584	584	ml_sen_1017	Eee vishu ikka yum pillerum kondu pokum	positive	Eee vishu ikka yum pillerum kondu pokum
+585	585	ml_sen_1018	Dis like engane thonni......adikan...... Adichavanmar  ooompikoooo Ikka ... Mass daaaaaaaaaaaaa....... Keralathinte muthue..........	negative	Dis like engane thonni......adikan...... Adichavanmar ooompikoooo Ikka ... Mass daaaaaaaaaaaaa....... Keralathinte muthue..........
+586	586	ml_sen_1019	Oru ikka faanaayittu pollum katta romaancham laletta ith pwolikum	positive	Oru ikka faanaayittu pollum katta romaancham laletta ith pwolikum
+587	587	ml_sen_1020	Ikka padanine dileepetta fans ella support	positive	Ikka padanine dileepetta fans ella support
+588	588	ml_sen_1022	Mammookkka s just vere level broo	positive	Mammookkka s just vere level bro
+589	589	ml_sen_1023	Lalettaa!!! Raju chettai. .. such a promising trailer!!!  RONJAAAMAM!!!!	positive	Lalettaa!!! Raju chettai. .. such a promising trailer!!! RONJAAAAM!!!!
+590	590	ml_sen_1024	Adi poly mammokka marana mazz	positive	Adi poly mammokka marana mazz
+591	591	ml_sen_1026	Pokirirajayil ninnum nala story ulla padamaanu ennu thonnunu.	positive	Pokirarajayil ninnum nala story ulla padamaanu ennu thonnunu.
+592	592	ml_sen_1027	Deivame ith 2 manikkooril nilkkooo.Aarekooyaanithil.ho myaaarakam.Lalettan kiiiiii.🤠	positive	Deivame ith 2 manikkooril nilkkooo.Aarekooyaanithil.ho myaaarakam.Lalettan kiiiiii.🤠
+593	593	ml_sen_1029	Ellarodum oru karym. Orupad prethiksha vechu kolam akalle. Nalla cinema avatte enu agrahikm.	neutral	Ellarodum oru karym. Orupad prethiksha vechu kolam akalle. Nalla cinema avatte enu agrahikm.
+594	594	ml_sen_1030	Padam pottum Ram fans munji.. sudapi teams  kuru pottum	negative	Padam pottum Ram fans munji.. sudapi teams kuru pottum
+595	595	ml_sen_1031	ankilinteyum parolinteyum parajayathinu shesham mammokkayude shakthamaya thirichu varavu	positive	ankilinteyum parolinteyum parajayathinu shesham mammokkayude shakthamaya thirichu varavu
+596	596	ml_sen_1032	Visuals serial pidikunna camera polundu. Make up oke ittu ellarum	negative	Visuals serial pidikunna camera polundu. Make up ok ittu ellarum
+597	597	ml_sen_1034	29 k Mammunni fans trailor Kandu....!	negative	29 k Mammunni fans trailer Kandu....!
+598	598	ml_sen_1039	Suraaajjj poli soubikkaaaa we are waiting...	positive	Suraaajjj poli soubikkaaaa we are waiting...
+599	599	ml_sen_1040	212k views	positive	212k views
+600	600	ml_sen_1041	Theoteril ninn irangiya oru feel...enikk maathramaano!	positive	Theoteril ninn irangiya oru feel...enikk maathramaano!
+601	601	ml_sen_1043	Padam kandu	positive	Padam kandu
+602	602	ml_sen_1044	Vijay babuvinu pakaram vere actor aayrnnenkil perfect aayene	negative	Vijay babu vinu pakaram vere actor aayirunnenkil perfect aayenge
+603	603	ml_sen_1045	Tharikida sabu ah poorimone kondu varendayirunnu	negative	Tharikida sabu ah poorimone kondu varendayirunnu
+604	604	ml_sen_1047	7 minute kond 8.3 k view🤩	positive	7 minutes cond 8.3 k view🤩
+605	605	ml_sen_1049	Jayetta katta fan....pakse ithonum oodathila ..oodilelum nalla cinema ayirnel kuyapolarnu..entho trailer kandite aa feelum varunila...anyway goodkuck	negative	Jayetta katta fan....pakse ithonum oodathila ..oodilelum nalla cinema ayirnel kuyapolarnu..entho trailer kandite aa feelum varunila...anyway goodkuck
+606	606	ml_sen_1050	BGMil gopisunderinte sound illayirunenkl korachu better aayene	neutral	BGMil gopisunderinte sound illayirunenkl korachu better aayene
+607	607	ml_sen_1052	Trailer kandit manassilayeele eth vere level aan makkale	positive	Trailer kandit manassilayeele eth vere level aan makkale
+608	608	ml_sen_1055	Mass trailer .. vere level anu	positive	Mass trailer .. vere level anu
+609	609	ml_sen_1056	don't do dislike .ikka polichu super	positive	don't do dislike .ikka polichu super
+610	610	ml_sen_1057	Prithvi director.... Lalettan nayakan... But trailer teaser nte athra vannilla... Trailer kandappoo... Murali gopi aannalloo kadha nu veendum ormipichuuu... Pratheeksha poyi	neutral	Prithvi director.... Lalettan nayakan... But trailer teaser nte athra vannilla... Trailer kandappoo... Murali gopi aannalloo kadha nu veendum ormipichuuu... Pratheeksha poyi
+611	611	ml_sen_1061	Ith vera level trailerannu..... Pada. Athukum mela ayrikum.... 21 waiting...	positive	Ith vera level trailerannu..... Pada. Athukum mela ayrikum.... 21 waiting...
+612	612	ml_sen_1062	Vyshaketta... Oru prayam aya manushyane vacha ningal Troy model idi cheyikunne... Ningalode angeru chodikum... Just kidding.. Item mass	positive	Vyshaketta... Oru prayam aya manushyane vacha ningal Troy model idi cheyikunne... Ningalode angeru chodikum... Just kidding.. Item mass
+613	613	ml_sen_1063	O ikka polichu 68am vayasillum mass lookka	positive	O ikka polichu 68am vayasillum mass lookka
+614	614	ml_sen_1065	Adaaa mwoneeee inganeee oru trailer kanda kaalam marannu......  Fdfs for sure	positive	Adaaa mwoneeee inganeee oru trailer kanda kaalam marannu...... Fdfs for sure
+615	615	ml_sen_1066	Vllya sambavayitt thonilla.. theateril vech kaanam. Prathvi angine chali akoolann vishwasikkunn...	neutral	Vllya sambavayitt thonilla.. theateril vech kaanam. Prathvi angina chali akoolann vishwasikkunn...
+616	616	ml_sen_1067	sanni chechiye konddu vannelengilum mammuckayude eaa padam kanan  ellarum kerumennayirickum malayaliyude oru gethikede	negative	sanni chechiye konddu vannelengilum mammuckayude eaa padam kanan ellarum kerumennayirickum malayaliyude oru gethikede
+617	617	ml_sen_1069	Enthu kandita dislike adikune Mamooka fans. Mohanlal haters step back Lucifer is comeing	negative	Enthu kandita dislike adikune Mammootty fans. Mohanlal haters step back Lucifer is coming
+618	618	ml_sen_1071	Exam kazhiyatte makkale... enikkum onnu armandukkanam..oh..	positive	Exam kazhiyatte makkale... enikkum onnu armandukkanam..oh..
+619	619	ml_sen_1075	Kidu trailer... padam super aarikum ennadhil oru samshayom illa..all the best team HELEN	positive	Kidu trailer...padam super aarikum ennadhil oru samshayom illa..all the best team HELEN
+620	620	ml_sen_1079	Ee avinja fansukare kond thottaallo dei padam kollamengil oodum allel pottum	negative	Ee avinja fansukare kond thottaallo dei padam kollamengil oodum allel pottum
+621	621	ml_sen_1081	Ho...oru azhchak ithrayum Neelam ondo?... Idikkatta waiting...	positive	Ho...oru azhchak ithrayum Neelam ondo?... Idikkatta waiting...
+622	622	ml_sen_1082	Onnum than e parayanilla bgm kalakki	positive	Onnum than e parayanilla bgm kalakki
+623	623	ml_sen_1083	Enthu oola trailer mammatty lokatholvi. Ithum kondano Lucifer aayittu muttan varunne. Comedy thanne.	negative	Enthu oola trailer mammatty lokatholvi. Ithum kondano Lucifer aayittu muttan varunne. Comedy thanne.
+624	624	ml_sen_1084	Ee cinemayilum mammootikku pani kurache undaku dilog kure undakum..paniyokke piller edukkendivarum	negative	Ee cinemayilum mammootikku pani kurache undaku dilog kure undakum..paniyokke piller edukkendivarum
+625	625	ml_sen_1086	ente ponnu lalettaa after narasimham  ithaanu padam!	positive	ente ponnu lalettaa after narasimham ithaanu padam!
+626	626	ml_sen_1087	Trailer kandappo thanne romaanjam limit break chiedhu....Cinima kandaal romaanjam kondu marikkum....	positive	Trailer kandappo thanne romaanjam limit break chiedhu....Cinima kandaal romaanjam kondu marikkum....
+627	627	ml_sen_1088	1:11 a simple loook enna poweraaa!!!!	positive	1:11 a simple look enna poweraaa!!!!
+628	628	ml_sen_1090	Kure nerayi repeat adichu kanunu.angane arelumundo	positive	Kure nerayi repeat adichu kanunu.angane arelumundo
+629	629	ml_sen_1092	Powlich laletta nigal  mass alla maranamassannnnn	positive	Powlich laletta nigal mass alla maranamassannnnnn
+630	630	ml_sen_1093	Lucifer teaser adipolii.  Ennalum madhura raja teaser kan poitt illengil lose avum	positive	Lucifer teaser adipolii. Ennalum madhura raja teaser kan poitt illengil lose avum
+631	631	ml_sen_1094	Maass.trailer ennu paranja ithaanU makkale.....katta waitinG for #Lucifer	positive	Maass.trailer ennu paranja ithaanU makkale.....katta waitinG for #Lucifer
+632	632	ml_sen_1096	Dis like cheida yella lalunni fansu polum trailorinu vendi katta waitingil aanallo	negative	Dis like cheida yella lalunni fansu polum trailorinu vendi katta waitingil aanallo
+633	633	ml_sen_1100	Jayetta ee xmas angu kondu poyko	positive	Jayetta ee xmas angu kondu poyko
+634	634	ml_sen_1101	Pulimurukan chaya kachiyathu pole thonniyathu enikku mathramano...	neutral	Pulimurukan chaya kachiyathu pole thoniyathu enikku mathramano...
+635	635	ml_sen_1102	Mammookka ithelum mass aayi big b il varunnund ith verum sample	positive	Mammookka ithelum mass aayi big b il varunnund ith verum sample
+636	636	ml_sen_1103	E mohanlal and pdithvi  veendum kothippikkuanello	positive	E mohanlal and pdithvi veendum kothippikkuanello
+637	637	ml_sen_1104	Aa kurishil christinte thala odich vechekunnu... raju brilliance	positive	Aa kurishil christinte thala odich vechekunnu... raju brilliance
+638	638	ml_sen_1106	ijjadhi kola mass trailer	positive	ijjadhi kola mass trailer
+639	639	ml_sen_1107	Ikka fan aa but first day thanne odiyan kanum	positive	Ikka fan aa but first day thanne odiyan kanum
+640	640	ml_sen_1108	Ethine velluna oru cinema inni oru 5-6 varshatheku iranigila heaviest of heaviest   Bramandamass  Ennu urapullavar like adikuka	positive	Ethine velluna oru cinema inni oru 5-6 varshatheku iranigila heaviest of heaviest Bramandamass Ennu urapullavar like adikuka
+641	641	ml_sen_1109	Movie adipoli.. aju varghese my fav	positive	Movie adipoli.. aju varghese my fav
+642	642	ml_sen_1110	Padakkam loading. Ingerkku ithu pathivaanalle. Oru hit padam eduthaal pinne moonu naalu chavarukal edukkum. Eg: Drama	negative	Padakkam loading. Ingerkku ithu pathivaanalle. Oru hit padam eduthaal pinne moonu naalu chavarukal edukkum. Eg: Drama
+643	643	ml_sen_1111	Ammbo onnum parayan illa enna oru bgm annu class sathanam	positive	Ammbo onnum parayan illa enna oru bgm annu class sathanam
+644	644	ml_sen_1114	Kiduuuu.. kiduuuu... Maranna item... Maranna mass BGM	positive	Kiduuuu.. kiduuuu... Maranna item... Maranna mass BGM
+645	645	ml_sen_1115	Powli ikka	positive	Powli ikka
+646	646	ml_sen_1117	Vere level trailer hype koodi varunnu lalettan and rajuvettan vere level aakki thonnunu	positive	Vere level trailer hype koodi varunnu lalettan and rajuvettan vere level aakki thonnunu
+647	647	ml_sen_1118	Njngalk 100 kodi onnum venda nammada ikka thaaa eee nilkunna pola onnu ninna mathiii pinna enth kodi...........	positive	Njngalk 100 kodi onnum venda nammada ikka thaaa eee nilkunna pola onnu ninna mathiii pinna enth kodi...........
+648	648	ml_sen_1119	Ente jeevante jeevanaya ichayoiii niga muthanu kalkkiyeee kalkki	positive	Ente jeevante jeevanaya ichayoiii niga muthanu kalkkiyeee kalkki
+649	649	ml_sen_1122	Dislike adichavark trailer ishtapedanjitto അതോ lalettaneyo. എതായാലും ninnodokke പുച്ഛം മാത്രം. Its ettans swag	negative	Dislike adichavark trailer ishtapedanjitto or lalettaneyo. Anyway ninnodokke is just scornful. Its ettans swag
+650	650	ml_sen_1123	Ikka Oru reskhem illatha trailer. Katta ikka fans . Like adich pwolik!!!	positive	Ikka Oru reskhem illatha trailer. Katta ikka fans. Like adich pwolik!!!
+651	651	ml_sen_1124	Katta wtng... !!! The Himalayan kwid  Mamoomkkaa	positive	Katta wtng... !!! The Himalayan kwid Mamoomkkaa
+652	652	ml_sen_1126	Nedumudi venu anekil age crt feel aynenee makeup venda..+cmdy ..	neutral	Nedumudi venu anekil age crt feel aynenee makeup venda..+cmdy ..
+653	653	ml_sen_1127	Ithu oru onnu onnara unda aayirikum	positive	Ithu oru onnu onnara unda aayirikum
+654	654	ml_sen_1129	Bgm polichu onnum parayan ella	positive	Bgm polichu onnum parayan ella
+655	655	ml_sen_1131	Oru 30 pravashyamenkilum kandirikkum trailer  9 days to go for mamangam On dec 12	positive	Oru 30 pravashyam enkilum kondirukkum trailer 9 days to go for mamangam On dec 12
+656	656	ml_sen_1133	Lalettan fan aanu. Lucifer thakarthu. Ithum adipoli aakatte ennu aashamsikkunnu...	positive	Lalettan fan aanu. Lucifer thakarthu. Ithum adipoli aakatte ennu aashamsikkunnu...
+657	657	ml_sen_1135	Oru mass +class padam anu eenu ourapichu	positive	Oru mass +class padam anu eenu ourapichu
+658	658	ml_sen_1136	Trailer vere Level ayittum response pora	neutral	Trailer vere Level ayittum response pora
+659	659	ml_sen_1140	Odiyan trailer kidukki Laletta nigal vere levela	positive	Odiyan trailer kidukki Laletta nigel vere level
+660	660	ml_sen_1143	Adipoli ikka... Kolakolliaittam nnparanjappo ethrapradeekshichilla sooooper	positive	Adipoli ikka... Kolakolliaittam nnparanjappo ethrapradeekshichilla soooooper
+661	661	ml_sen_1146	Super .. pazhachi pola tonunu ..  history movie kanamenkil mammoka abinayikanam	positive	Super .. pazhachi pola tonunu .. history movie kanamenkil mammoka abinayikanam
+662	662	ml_sen_1147	Njan oru laletan fan anu but ee movie namude abimaanamaanu enthayalum mega hit avan prarythikkunnu	positive	Njan oru laletan fan anu but ee movie nammude abimana aanu enthayalum mega hit avan prarythikkunnu
+663	663	ml_sen_1148	Ithu  super number hit  akum	positive	Ithu super number hit akum
+664	664	ml_sen_1149	Tovino abhinayikkunnath kond film bahishkkarikkunna ettan fans anu nammal. Go back tolvino	neutral	Tovino abhinaikkunnath kond film bahishkarikkuka ettan fans annu nammal. Go back tolvino
+665	665	ml_sen_1150	Katta ettan fan pakshe entho Manasu parayunu  Ith thakarkum	positive	Katta ettan fan pakshe entho Manasu parayunu Ith thakarkum
+666	666	ml_sen_1153	vadaaa mass dialogue..mammootty fan aya njan pattunnu...ithu lalettan thakarkumennu...koode vishakite madhura rajayum...	positive	vadaaa mass dialogue..mammootty fan aya njan pattunnu...ithu lalettan thakarkumennu...koode vishakite madhura rajayum...
+667	667	ml_sen_1154	ith pwolikkum enn urappullavar adi like	positive	ith pwolikkum enn urappullavar adi like
+668	668	ml_sen_1156	Aa myran sohan seenu lal veendum mammookka yude koode koodiyallo padachone...	negative	Aa myran sohan seenu lal veendum mammookka yude koode koodiyallo padachone...
+669	669	ml_sen_1158	Trailer kidilam but murali gopy brilliant thirakadha palarkkum thaleyil kerathilla...	neutral	Trailer kidilam but murali gopy brilliant thirakadha palarkkum thaleyil kerathilla...
+670	670	ml_sen_1161	Election time l kanan pattya film	positive	Election time l kanan pattaya film
+671	671	ml_sen_1162	Ettan fansinte katta support to ikka	positive	Ettan fansinte katta support to ikka
+672	672	ml_sen_1163	Onn parayan illa. Aadipoli. Mass ikka. Unni chettan polichu	positive	Onn parayan illa. Aadipoli. Mass ikka. Unni chettan polichu
+673	673	ml_sen_1166	Cheriya pulli alla avan padicha kalana...  Mass marana mass	positive	Cheriya pulli alla avan padicha kalana... Mass marana mass
+674	674	ml_sen_1169	Padam kandittu varunnnavar undooo .... MADHURARAJA oree pwoli   MAMMOKKA PWOLICHUU	positive	Padam kandittu varunnnavar undooo .... MADHURARAJA oree pwoli MAMMOKKA PWOLICHUU
+675	675	ml_sen_1170	23 k  unlike   hehe   idum  kanji  tanne	negative	23 k unlike hehe idum kanji tanne
+676	676	ml_sen_1172	Eth pwolikum .....the complete actor lalettaaaaaaa ....katta waiting for lucifer enna look aa nmle lalettaaa	positive	Eth pwolikum .....the complete actor lalettaaaaaaa ....katta waiting for lucifer enna look aa nmle lalettaaaaa
+677	677	ml_sen_1173	Ooo mire. Njn vicharich teaser Poole uumbiyath aayirikkum nn. Id verre level kolakolli itemm..	negative	Ooo mire. Njn vicharich teaser Poole uumbiyat aayirikkum nn. Id verre level kolakolli itemm..
+678	678	ml_sen_1174	Odiyante Odi vidya thudangi makkale...Murugaaa ne sherikum theernu	positive	Odiyante Odi vidya thudangi makkale...Murugaaa ne sherikum theernu
+679	679	ml_sen_1175	Dislike adikaan vendi vannathaa.. pakshe.. #LUCIFAR ith pwoliKum... all d bzttt... by ikkaa_Faan🤩	positive	Dislike adikaan vendi vannathaa.. pakshe.. #LUCIFAR with poliKum... all d best... by ikkaa_Faan🤩
+680	680	ml_sen_1176	Waiting aane pettanne 8 mani aayaal kullamaayirunnu allae	positive	Waiting aane pettanne 8 mani aayaal kullamaayirunnu allae
+681	681	ml_sen_1177	Historical character cheyyaaan mammookayaan  best  Entha aaa shabdha gaambheeram	positive	Historical character cheyyan mammookayaan best Entha aaa shabd gambheeram
+682	682	ml_sen_1178	Sambavam polichu  Ennu lalettan fanaya oral 🤗	positive	Sambavam polichu Ennu lalettan fanaya oral 🤗
+683	683	ml_sen_1183	njan ikka fan aaan!  lalettante oru nalla thirichu varav pratheekshikunnu......rajuvettan direction super aayittund!	positive	njan ikka fan aaan! lalettante oru nalla thirichu varav pratheekshikunnu......rajuvettan direction super aayittund!
+684	684	ml_sen_1185	VERE            LEval	positive	VERE LEVEL
+685	685	ml_sen_1186	Ufff  ijjathiii iteam......  Katta Waiting	positive	Ufff ijjathiii iteam...... Katta Waiting
+686	686	ml_sen_1187	eee trailer oru cinema kanunapole irunn  kanan pattiya oru item ann  christianigalk idayil ivan oru pere ullu.. #Lucifer	positive	eee trailer oru cinema kanunapole irunn kanan pattiya oru item ann christianigalk idayil ivan oru pere ullu.. #Lucifer
+687	687	ml_sen_1188	Mammokkayude madurarajakku shesham  adutha super hit	positive	Mammokkayude madurarajakku shesham adutha super hit
+688	688	ml_sen_1189	Padicha kallana..   laletttaaaa ingalu muthanu.....	positive	Padicha kallana.. laletttaaaa ingalu muthanu.....
+689	689	ml_sen_1191	2 times ee movie Njan kandu	positive	2 times ee movie Njan kandu
+690	690	ml_sen_1192	Koora Trailer iyalkku ee pani nirthi pokkode	negative	Koora Trailer iyalkku ee pani nirthi pokkode
+691	691	ml_sen_1193	Itu polikkum ithu polikkum Eppo polichennu chodicha mathi	positive	Itu polikkum ithu polikkum Eppo polichennu chodicha mathi
+692	692	ml_sen_1194	Dialogue delivery oru gummilla.. ahh padam varattee nokkam	neutral	Dialogue delivery oru gummilla.. ahh padam varatete nokkam
+693	693	ml_sen_1195	Dialogil kallanmaar ennathinu pakaram chekkuthaanmaar ennakiyirunnenkil kurachu koodi nannayirunnene ennu enikku mathram aano thonniyathu	neutral	Dialogil kallanmaar ennathinu pakaram chekkuthaanmaar ennakiyirunnenkil kurachu koodi nannayirunnene ennu enikku mathram aano thoniyathu
+694	694	ml_sen_1196	Oru best actor manakkunnu....happy birthday chunk ikkaaaa	positive	Oru best actor manakkunnu....happy birthday chunk ikkaaaaa
+695	695	ml_sen_1197	Poli...... By  A ikka fan	positive	Poli...... By A ikka fan
+696	696	ml_sen_1198	Muriyandi mammunniyude sudappi fansinaanu kuru vallathe pottunnath..	negative	Muriyandi mammunniyude sudappi fansinaanu kuru vallathe pottunnath..
+697	697	ml_sen_1199	Kalakki.. ithu blockbuster ennu sure aayitullavar like adikk	positive	Kalakki.. ithu blockbuster ennu sure aayitullavar like adikk
+698	698	ml_sen_1201	Happy Birthday Mammookka  Katta ikka fans like adichu polikk	positive	Happy Birthday Mammookka Katta ikka fans like adichu polikk
+699	699	ml_sen_1205	16k viewsum 91k likesum itheppadi nthayalum ang usharakkii #madhura raja power of indian cinema mammookkaa	positive	16k viewsum 91k likesum itheppadi nthayalum ang usharakkii #madhura raja power of indian cinema mammookkaa
+700	700	ml_sen_1206	Mammokka fan ayathil njan abhimanam kollunnu polichadukki trailor eni theataril kanam	positive	Mammokka fan ayathil njan abhimanam kollunnu polichadukki trailor eni theataril kanam
+701	701	ml_sen_1210	30 minutes more        waiting Ikka's maduraRaja	positive	30 minutes more waiting Ikka's MaduraRaja
+702	702	ml_sen_1211	Ente ponnoooo oru rakshem illaaaa... Ikkaaaaa pwolichuuuuu	positive	Ente ponnoooo oru rakshem illaaaa... Ikkaaaaa pwolichuuuuu
+703	703	ml_sen_1212	Adipwoli Suraj chettan soubin ikka  veendum nammal malayalikalkku  variety cinemakal tharunnathinayivariety cinemagal ishdapedunnavar  adikada like🤗🤗🤗	positive	Adipwoli Suraj chettan soubin ikka veendum nammal malayalikalkku variety cinemakal tharunnathinaivariety cinemagal ishdapedunnavar adikada like🤗🤗🤗
+704	704	ml_sen_1214	tamil movie polea undeallo.  over aano	neutral	tamil movie polea undealo. over aano
+705	705	ml_sen_1215	Madhuraraja and abrahaminte santhathikal .........vere level	positive	Madhuraraja and abrahaminte santhathikal .........vere level
+706	706	ml_sen_1216	Idu ettu nilayil pottum....mommoty vannu thalli marikkum endammo chali	negative	Idu ettu nilayil pottum....mommoty vannu thalli marikkum endammo chali
+707	707	ml_sen_1219	Nirasha varuthathe ... Nalloru movie pratheekshikunnu Kure nalukalkku shesham Oru moviek  pokanam. Ennu moham	positive	Nirasha varuthathe ... Nalloru movie pratheekshikunnu Kure nalukalkku shesham Oru moviek pokanam. Ennu moham
+708	708	ml_sen_1221	Njan ikka fan aa	positive	Njan ikka fan aa
+709	709	ml_sen_1222	Lalettan Salam. Otha enna trailer uh. Last one minute is absolute Goosebumps. Mangalasery neelakandan Karthikeyan odanno Kali..	positive	Lalettan Salam. Otha enna trailer uh. Last one minute is absolute goosebumps. Mangalasery neelakandan Karthikeyan odanno Kali..
+710	710	ml_sen_1224	ticket kittaan ini oru mamangam nadathendi varumo..! waiting ..	positive	ticket kittaan ini oru mamangam nadathendi varumo..! waiting..
+711	711	ml_sen_1225	Haneef adeni pwolikkum  Maass trailer  Mommookkayude Face kanum yenn pradeekshichu  Sambavam marana maass aann	positive	Haneef adeni pwolikkum Maass trailer Mommookkayude Face kanum yenn pradeekshichu Sambavam marana maass aann
+712	712	ml_sen_1226	Ambo kiduve.. Kola mass .. Raju etta ingalu Vere level ..	positive	Ambo kiduve.. Kola mass .. Raju etta ingalu Vere level ..
+713	713	ml_sen_1228	Ikka uyire.... Malayalm cinema ude abhimanyam...... Mammukka Fans Like here	positive	Ikka uyire.... Malayalam cinema nude abhimanyam...... Mammukka Fans Like here
+714	714	ml_sen_1229	kidu bgm making dailogue full pwli mood ichayan	positive	kidu bgm making dialogue full pwli mood ichayan
+715	715	ml_sen_1232	Ente ammo marranam maasss alla kollaa maasss aannuuu lallettan  Ithu pollikum	positive	Ente ammo marranam maasss alla kollaa maasss aannuuu lallettan Ithu pollikum
+716	716	ml_sen_1235	Ee shareeramulla manushyanevech ee padam cheydh kulamakarudh plees	negative	Ee shareeramulla manushyanevech ee padam cheydh kulamakarudh plees
+717	717	ml_sen_1236	Diss like adichavarodanu Ella nayinte makkalkkum naduviral namaskkaram	negative	Diss like adichavarodanu Ella nayinte makkalkkum naduviral namaskkaram
+718	718	ml_sen_1237	Ee padathine nammal vijaya gara maakkanam....	positive	Ee padathine nammal vijaya gara maakkanam....
+719	719	ml_sen_1239	Ini idikanda.. urutam.. athu box officenodanu	positive	Ini idikanda.. urutam.. athu box officenodanu
+720	720	ml_sen_1242	1:22 entammo ijjathi mass scenes edukkan prithvirajine konde pattathullu	positive	1:22 entammo ijjathi mass scenes edukkan prithvirajine konde pattathullu
+721	721	ml_sen_1246	ikka pulikum verum mass alla marana mass	positive	ikka pulikum verum mass alla marana mass
+722	722	ml_sen_1247	Ahaa Jayettoo ijjathi mass look.. FDFS urapp	positive	Ahaa Jayettoo ijjathi mass look.. FDFS urapp
+723	723	ml_sen_1248	Thoppil joppan’s touch undoooooooonu cheriya samsayamilladilladilladillaaaa	neutral	Thoppil joppan's touch undooooooonu cheriya samsayamilladilladilladillaaaa
+724	724	ml_sen_1249	Avasanam Rajadhiraja yile tone pole thonni	neutral	Avasanam Rajadhiraja yile tone pole thonni
+725	725	ml_sen_1252	Lucifer oppam pidichunilkanulla ella adavumaayittannu varavu kaathirunnu kaanam adiyude vediyude podipooram	positive	Lucifer oppam pidichunilkanulla ella adavumaayittannu varavu kaathirunnu kaanam adiyude vediyude podipooram
+726	726	ml_sen_1253	Ente ponno  no raksha	positive	Ente ponno no raksha
+727	727	ml_sen_1256	Ikka fans like button adich pwolik ore oru naayakan	positive	Ikka fans like button adich polik ore oru nayagan
+728	728	ml_sen_1259	adipoli...oru pulimurugan effect....but kuzhpm ilaa ..............mammookkaa	positive	adipoli...oru pulimurugan effect....but kuzhpm ilaa ..............mammookkaa
+729	729	ml_sen_1260	1.3 k dislikes. ഇജ്ജാതി കുരു before trailer release 🤣🤣🤣🤣	negative	1.3 k dislikes. Ijjati Kuru before trailer release 🤣🤣🤣🤣
+730	730	ml_sen_1261	Kidu adar item !! From a kaataa laleetan fan	positive	Kidu adar item !! From a kaataa laleetan fan
+731	731	ml_sen_1262	Poli item.......Support from ettan fan.  .....	positive	Poli item.......Support from ettan fan. ....
+732	732	ml_sen_1263	Enne arelum ivdnnu koottikkondu pokaamo...repeat mode on more than 25 times...kidu bgm	positive	Enne arelum ivdnnu koottikkondu pokaamo...repeat mode on more than 25 times...kidu bgm
+733	733	ml_sen_1267	Kidilam trailer   from a edikatta Mammokka fan	positive	Kidilam trailer from an edikatta Mammokka fan
+734	734	ml_sen_1269	Apooo engane pillere teater poora parabu aakuallleee	positive	Apooo engane pillere teater poora parabu aakuallleee
+735	735	ml_sen_1273	Mamooka ingalu orum sambavam Alla ithihasam thank you	positive	Mamooka ingalu orum sambavam Alla ithihasam thank you
+736	736	ml_sen_1275	ikka fans kandit like adichit poyi	positive	ikka fans kandit like adichit poyi
+737	737	ml_sen_1279	Lucifer thannee sheenam maarillaa aduthu kootheraaaaa thaaa	negative	Lucifer thannee sheenam maarillaa aduthu kootheraaaaa thaaa
+738	738	ml_sen_1280	Late ayalum latest aayee ikka varuu	positive	Late ayalum latest aayee ikka varuu
+739	739	ml_sen_1281	Lalettaa Ormavecha naalu muthal malayalikalude aaavesamaya lalettaaa	positive	Lalettaa Ormavecha naalu muthal malayalikalude aaavesamaya lalettaaa
+740	740	ml_sen_1284	Ijjathi kuru trailer releaseinu mumbe ikka fans dislike adikan thudangiyo	negative	Ijjathi kuru trailer releaseinu mumbe ikka fans dislike adikan thudangiyo
+741	741	ml_sen_1285	adipoly making vismayam .. gambheera dlg delvry ...waiting ...	positive	adipoly making vismayam .. gambheera dlg delvry ...waiting ...
+742	742	ml_sen_1286	Trailer kollam..but oru mass bgm illa..gopi sundar mathiyayirunnu	neutral	Trailer kollam..but oru mass bgm illa..gopi sundar mathiyayirunnu
+743	743	ml_sen_1287	ee vaga items okke kandu maduthade....oru maatavumilla.	negative	ee vaga items okke kandu maduthade....oru maatavumilla.
+744	744	ml_sen_1289	Kidukki.........  Last  punch romanjam..........	positive	Kidukki......... Last punch romanjam..........
+745	745	ml_sen_1290	nyc but best actor poley aayaaal seriyaavilla	neutral	nyc but best actor poley aayaaal seriyaavilla
+746	746	ml_sen_1291	1:52 mass level  Fdfs urappichavar like adikku	positive	1:52 mass level Fdfs urapichavar like adikku
+747	747	ml_sen_1292	KATTA WAITING.BGM POLICHU ORU RAKSHAYUMILLA.SUPER.MEGASTAR MAMMOOKKA	positive	KATTA WAITING.BGM POLICHU ORU RAKSHAYUM ILLA.SUPER.MEGASTAR MAMMOOTTY
+748	748	ml_sen_1296	Ithrayum nalla oru trailer kittiyittum Viewsinte avastha shojaneeyam thanne.	neutral	Ithrayum nalla oru trailer kittiyittum Viewsinte avastha shojaneeyam thanne.
+749	749	ml_sen_1297	Adutha kodaali padam looks like master piece 2.0	negative	Adutha kodaali padam looks like master piece 2.0
+750	750	ml_sen_1300	Lalettaaa vere lvl  mass waiting	positive	Lalettaaa vere lvl mass waiting
+751	751	ml_sen_1302	Filim odiyane pole avathirunna mathiyayirunnu	neutral	Filim odiyane pole avathirunna mathiyayirunnu
+752	752	ml_sen_1307	lalettan Polichu adukki oru rakshyum Illaa	positive	lalettan Polichu adukki oru rakshyum Illaa
+753	753	ml_sen_1309	ADIPOLLI  STOREY AJU*. *IKKA  MASS	positive	ADIPOLLI STOREY AJU*. *IKKA MASS
+754	754	ml_sen_1314	Katta waiting aay ullavar like adikk	positive	Katta waiting aay ullavar like adikk
+755	755	ml_sen_1315	Ikka   pwolikkum   bgm pwolichu	positive	Ikka pwolikkum bgm pwolichu
+756	756	ml_sen_1317	Eee padam pwolikum..... Aah വിശ്വാസം anu eee comnt	positive	Eee padam polikum..... Ahh faith anu eee comnt
+757	757	ml_sen_1319	Ithinu apurath oru trailer illa	negative	Ithinu apurath oru trailer illa
+758	758	ml_sen_1320	Luciferum ayite kurachu samyamille ee trailerinnu	neutral	Luciferum ayite kurachu samyamille ee trailerinnu
+759	759	ml_sen_1322	Ikka katta waiting onnu pettanu ita kolamayirunnu	positive	Ikka katta waiting onnu pettanu ita kolamayirunnu
+760	760	ml_sen_1323	Odiyaan... Laletttaaa... oru Sambhavam thannneeee..	positive	Odiyan... Lalettan... oru Sambhavam thanne..
+761	761	ml_sen_1329	june 16nu Oru addar item varunnund  Derick Abraham	positive	june 16nu Oru addar item varunnund Derick Abraham
+762	762	ml_sen_1330	Wow Goosebumps laletan fan aaya enik varee kitti	positive	Wow Goosebumps laletan fan aaya enik varee kitti
+763	763	ml_sen_1331	Raavile views ethrayayi ennu nokan vannavar evide come on.	positive	Raavil views ethra aayi ennu nolan vannavar evide come on.
+764	764	ml_sen_1334	Fake liker pidichu ikka oombi	negative	Fake liker pidichu ikka oombi
+765	765	ml_sen_1335	Oru pulimurugan feel enku mathramano thonniyathu?	neutral	Oru pulimurugan feel enku mathramano thonniyathu?
+766	766	ml_sen_1336	Durantham poojapura jimittolikal dislike aayi irangeetund..haha	negative	Durantham poojapura jimittolikal dislike aayi irangeetund..haha
+767	767	ml_sen_1337	Ekkakkum Akkakkum Mohanlal fansinte full support undakum	positive	Ekkakkum Akkakkum Mohanlal fansinte full support undakum
+768	768	ml_sen_1340	Taken Enna movie pole aavum enn thonnunnu	neutral	Taken Enna movie pole aavum enn thonnunnu
+769	769	ml_sen_1341	3 MINUTES MARANAMASS TRAILER  KATTA WAITING......  MANJU MASS LALETTAN MARANA KOLAMASS	positive	3 MINUTES MARANAMASS TRAILER KATTA WAITING...... MANJU MASS LALETTAN MARANA KOLAMASS
+770	770	ml_sen_1342	Mammoonny .... Komali... Loka tholvi. Sammathikkunnavar Like Adikku	negative	Mammoonny .... Komali... Loka tholvi. Sammathikkunnavar Like Adikku
+771	771	ml_sen_1343	Enta ponno eppolu ntha oru ethu	positive	Enta ponno eppolu ntha oru ethu
+772	772	ml_sen_1346	Mohanlalile ishtapetta vekthiyayirunnu njan pakshe superstar sarojkumar enna movie kandathinushesham enikkmanassilayi	negative	Mohanlalile ishtapetta vekthiyayirunnu njan pakshe superstar sarojkumar enna movie kandathinushesham enikkmanassilayi

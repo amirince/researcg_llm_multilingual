@@ -1,0 +1,1 @@
+Now, classify the following text. Please respond with only 'positive', 'negative', or 'neutral':
