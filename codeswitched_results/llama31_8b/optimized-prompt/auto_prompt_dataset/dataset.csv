@@ -1,0 +1,51 @@
+"id","text","prediction","annotation","metadata","score","batch_id"
+0,"The meal was acceptable, but certainly nothing to write home about.","Negative","neutral","","",0
+1,"I suppose there could be worse outcomes than this.","Neutral","neutral","","",0
+2,"Today's weather is expected to be 75 degrees with intermittent clouds.","Neutral","neutral","","",0
+3,"The concert was quite an experience, though not entirely in a good way.","Negative","negative","","",0
+4,"While the report is comprehensive, it somehow lacks the substance I anticipated.","Negative","negative","","",0
+5,"Your efforts on the project have not gone unnoticed.","Neutral","positive","","",0
+6,"It's not the best coffee I've had, but it's not the worst either.","Neutral","neutral","","",0
+7,"The service was prompt, which was surprising given how busy they were.","Positive","positive","","",0
+8,"I'm not sure how to feel about the movie; it had its moments, but they were few and far between.","Negative","neutral","","",0
+9,"The speech was delivered with great eloquence, yet it left me feeling somewhat indifferent.","Neutral","neutral","","",0
+10,"The workshop was informative, though some speakers were uninspiring.","Neutral","neutral","","",1
+11,"Your presentation was clear; however, it didn't quite capture the excitement of the topic.","Negative","neutral","","",1
+12,"I've seen better performances, but at least the effort was there.","Neutral","Neutral","","",1
+13,"The book was a page-turner, albeit with a predictable plot.","Positive","positive","","",1
+14,"Customer support was efficient—they resolved my issue, yet I felt they were rushed.","Neutral","Neutral","","",1
+15,"The scenery was breathtaking, although the weather left much to be desired.","Positive","Neutral","","",1
+16,"The new policy seems fair, yet it doesn't fully address the main concerns.","Neutral","Neutral","","",1
+17,"His apology appeared sincere, but it lacked the depth of true remorse.","Negative","negative","","",1
+18,"The celebration was decent, but it lacked the usual vibrancy one would expect.","Negative","neutral","","",1
+19,"The software update includes useful features; still, it falls short of being revolutionary.","Neutral","neutral","","",1
+20,"The movie had stunning visual effects, yet the storyline left me wanting more depth.","Negative","neutral","","",2
+21,"Dinner was served promptly and the presentation was immaculate, although the flavors were just shy of remarkable.","Neutral","neutral","","",2
+22,"The new policy addresses some concerns, but it still falls short of providing a comprehensive solution.","Negative","negative","","",2
+23,"Your presentation had some compelling points, though it was a bit dry in delivery.","Neutral","neutral","","",2
+24,"The book was a page-turner, but the ending was somewhat predictable and unsatisfying.","Negative","neutral","","",2
+25,"While the hotel was centrally located, the amenities offered were quite basic for the price paid.","Negative","neutral","","",2
+26,"The conference had a lineup of knowledgeable speakers, yet the schedule was too packed to truly engage with the content.","Neutral","negative","","",2
+27,"He finished the marathon, a testament to his determination, but his time was not what he had hoped for.","Neutral","neutral","","",2
+28,"The software update includes several useful features, though it seems to have slowed down the system slightly.","Neutral","neutral","","",2
+29,"She handled the difficult situation with grace, but you could sense her frustration beneath the surface.","Negative","neutral","","",2
+30,"The lecture was insightful, yet the room was uncomfortably cold throughout.","Negative","neutral","","",3
+31,"The plot twists in the book were somewhat predictable, which detracted from the thrill.","Negative","negative","","",3
+32,"The customer service agent was polite, though their responses seemed quite rehearsed and impersonal.","Neutral","neutral","","",3
+33,"The cake's appearance was stunning, but the flavor was just average.","Neutral","neutral","","",3
+34,"The software update includes several new features, but it also made the system slower.","Neutral","negative","","",3
+35,"The team worked diligently, however, the project's success is still uncertain.","Neutral","neutral","","",3
+36,"The vacation spot was serene, yet somehow it did not live up to my high expectations.","Negative","negative","","",3
+37,"The presentation was well-structured, although it didn't quite capture the audience's attention.","Neutral","Neutral","","",3
+38,"The gift was thoughtfully chosen, even though it wasn't something I'd have picked for myself.","Positive","positive","","",3
+39,"The celebration was full of energy, but it felt somewhat lacking in genuine warmth.","Negative","neutral","","",3
+40,"The workshop's atmosphere was charged with creativity, though the time constraints were a bit stifling.","Positive","Neutral","","",4
+41,"Navigating the software was intuitive, yet there were moments of frustration with occasional bugs.","Neutral","Neutral","","",4
+42,"The meal had an array of diverse flavors that were interesting, though not all were to my taste.","Neutral","neutral","","",4
+43,"The book ended on an unexpected note, leaving me conflicted but intrigued.","Negative","neutral","","",4
+44,"Despite the challenges, there was a sense of achievement in completing the project.","Positive","positive","","",4
+45,"The conversation was engaging, yet at times it felt like we were just skimming the surface.","Neutral","Neutral","","",4
+46,"The hotel's location was perfect, even if the decor wasn't quite my style.","Positive","positive","","",4
+47,"Her feedback was constructive, but it was delivered with a sharpness that was hard to appreciate.","Negative","Negative","","",4
+48,"The evening was enjoyable, although it lacked the spark of previous gatherings.","Neutral","Neutral","","",4
+49,"The lecture was informative, but it lacked the interactive elements that encourage deeper understanding.","Neutral","neutral","","",4
