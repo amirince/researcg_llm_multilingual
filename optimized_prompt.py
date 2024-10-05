@@ -8,16 +8,28 @@ DATA_PATH = "data_sets/ary/test.tsv"
 
 MODEL = "llama3.1:8b"
 
-PROMPT = """Analyze the sentiment of the text and categorize it as 'Positive', 'Neutral', or 'Negative'. 
+PROMPT = """
+Analyze the sentiment of the text and categorize it as 'Positive', 'Neutral', or 'Negative'. 
+
 A text is 'Positive' when it conveys clear or subtle expressions of happiness, satisfaction, or approval, 
 like 'The event was a joy to attend' or 'I appreciate your hard work on this'. 
-Texts are 'Neutral' when they provide information or facts without a strong emotional tone, even if they include minor positive or 
-negative connotations, such as 'This phone model has a larger screen'. 
+
+Texts are 'Neutral' when they provide information or facts without a strong emotional tone, even if they include minor positive or negative connotations, 
+such as 'This phone model has a larger screen'. 
+
 Texts that contain both positive and negative elements should be classified based on the most prevalent sentiment. 
-If the negative elements are not overpowering, consider the text 'Positive'. Assign the 'Negative' label only when negative feelings like 
-dissatisfaction or disappointment are the primary focus of the text, as in 'I'm frustrated with the constant delays'. 
+If the negative elements are not overpowering, consider the text 'Positive'. 
+
+Assign the 'Negative' label only when negative feelings like dissatisfaction or disappointment are the primary focus of the text, 
+as in 'I'm frustrated with the constant delays'. 
+
 Be particularly cautious in assessing subtle positive cues and ensure that neutral texts with minor emotive language are not misclassified 
-as 'Positive' or 'Negative'."""
+as 'Positive' or 'Negative'.
+
+Please respond with just the sentiment label.
+
+{sentiment}
+"""
 
 
 EXAMPLE_COL = "sentence"
@@ -47,8 +59,6 @@ class RunInference:
         self.batch_size = batch_size
         self.all_labels = []
 
-        self.data = self.data.head(1)
-
     async def classify_text(self, example):
         response = await AsyncClient().chat(
             model=self.model,
@@ -64,7 +74,7 @@ class RunInference:
             ],
         )
         sentiment = response["message"]["content"]
-
+        print("This is the sentiment: ", sentiment)
         sentiment = sentiment.strip()
         sentiment = sentiment.lower()
 
