@@ -5,6 +5,7 @@ import ollama
 from ollama import AsyncClient
 from optimized_prompts import prompts
 import time
+import re
 
 DATA_PATH = "data_sets/ary/test.tsv"
 
@@ -36,6 +37,7 @@ class RunInference:
         label_col=LABEL_COL,
     ) -> None:
         self.model = model
+        self.model_name = re.sub(r'[<>:"/\\|?*]', "_", model)
         self.prompt = prompt
         self.label = label_col
         self.example_col = example_col
@@ -72,16 +74,16 @@ class RunInference:
 
     def _save_results(self, current_batch_df):
         if not os.path.exists(
-            "codeswitched_results/llama31_8b/optimized_prompts_tuned_per_dataset"
+            f"codeswitched_results/{self.model_name}/optimized_prompts_tuned_per_dataset"
         ):
             os.makedirs(
-                "codeswitched_results/llama31_8b/optimized_prompts_tuned_per_dataset"
+                f"codeswitched_results/{self.model_name}/optimized_prompts_tuned_per_dataset"
             )
 
         file_name = os.path.basename(self.data_path)
         file_name_without_ext = os.path.splitext(file_name)[0]
 
-        output_path = f"codeswitched_results/llama31_8b/optimized_prompts_tuned_per_dataset/{self.dataset_name}_{file_name_without_ext}_processed.tsv"
+        output_path = f"codeswitched_results/{self.model_name}/optimized_prompts_tuned_per_dataset/{self.dataset_name}_{file_name_without_ext}_processed.tsv"
 
         results_df = pd.DataFrame(self.all_labels, columns=["prediction"])
         current_batch_df["prediction"] = results_df["prediction"][
@@ -152,11 +154,8 @@ for dataset in dataset_list:
         data_path=DATA_PATH,
         dataset_name=dataset,
         batch_size=50,
-        model="llama3.1:8b",
+        model="llama3.2:3b",
         prompt=prompts[dataset],
     )
 
     asyncio.run(classifier.run())
-    time.sleep(
-        120
-    )  # sleep let GPU throttle down and cool off before working on next dataset
