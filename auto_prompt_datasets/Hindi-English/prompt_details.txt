@@ -1,0 +1,13 @@
+Instructon: Classify the sentiment of a given text as Positive, Negative, or Neutral based on its overall tone and emotional content. Your response must be limited to one of these three categories.
+Positive: The text conveys positive emotions such as happiness, approval, or satisfaction.
+Negative: The text expresses negative emotions like anger, dissatisfaction, or disappointment.
+Neutral: The text presents facts or information without strong emotional bias.
+
+Initial Prompt: """You are a highly skilled classification assistant. Your task is to analyze the provided text and determine its sentiment. Classify the sentiment as one of the following: 'positive', 'negative', or 'neutral'. 
+
+Please respond with just the sentiment label.
+
+{sentiment}
+"""
+
+Calibrated prompt: Classify the sentiment of a text as 'Positive,' 'Negative,' or 'Neutral.' Consider a sentiment 'Positive' if the text contains expressions of optimism, praise, or subtle hints of pleasure, ensuring to recognize them even when they are understated or culturally specific. Consider a sentiment 'Negative' if the text includes expressed dissatisfaction, complaints, or even slight suggestions of discontent. For 'Neutral' sentiment, the text should be devoid of emotional weight, presenting facts, or sharing viewpoints that are neither critical nor appreciative. Focus on identifying neutral sentiment accurately in complex cases or amidst faint emotional signals, and avoid misclassifying subtle positivity as neutral or negative sentiment as neutral.

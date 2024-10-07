@@ -3,8 +3,11 @@ from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 
 
 def print_metrics(PATH):
-
-    df = pd.read_csv(PATH, sep="\t")
+    try:
+        df = pd.read_csv(PATH, sep="\t")
+    except:
+        print("File Not Found!")
+        return
 
     # Extract true labels and predictions
     y_true = df["sentiment"]
@@ -32,7 +35,12 @@ dataset_list = [
     "Telugu-English",
 ]
 
-tests = ["zero-shot", "few-shot"]
+tests = [
+    "zero-shot",
+    "few-shot",
+    "optimized-prompt",
+    "optimized_prompts_tuned_per_dataset",
+]
 
 for test in tests:
     print(test, "\n")

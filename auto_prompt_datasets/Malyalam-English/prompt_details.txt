@@ -1,0 +1,14 @@
+Instructon: Classify the sentiment of a given text as Positive, Negative, or Neutral based on its overall tone and emotional content. Your response must be limited to one of these three categories.
+Positive: The text conveys positive emotions such as happiness, approval, or satisfaction.
+Negative: The text expresses negative emotions like anger, dissatisfaction, or disappointment.
+Neutral: The text presents facts or information without strong emotional bias.
+
+Initial Prompt: """You are a highly skilled classification assistant. Your task is to analyze the provided text and determine its sentiment. Classify the sentiment as one of the following: 'positive', 'negative', or 'neutral'. 
+
+Please respond with just the sentiment label.
+
+{sentiment}
+"""
+
+Calibrated prompt score: 0.82
+Calibrated prompt: Your task is to classify the sentiment of a given text into one of three categories: 'Positive', 'Negative', or 'Neutral'. You must capture the sentiment accurately by identifying expressions of joy, approval, and satisfaction as 'Positive'. Recognize any language indicating displeasure, disapproval, or disappointment as 'Negative', and label texts that are fact-based or devoid of strong emotional language as 'Neutral'. It is essential to take into account local slang and non-English expressions of emotion. Ensure that enthusiastic local phrases such as "pwoli item" are classified as 'Positive' and critical terms like "moshamayi" as 'Negative'. For factual statements or those without clear emotional language, maintain a 'Neutral' classification, even if they discuss potentially exciting or disappointing topics.

@@ -1,30 +1,17 @@
 import pandas as pd
 import asyncio
 import os
+import ollama
 from ollama import AsyncClient
+from optimized_prompts import prompts
 import time
 
 DATA_PATH = "data_sets/ary/test.tsv"
 
 MODEL = "llama3.1:8b"
 
-PROMPT = """
-Analyze the sentiment of the text and categorize it as 'Positive', 'Neutral', or 'Negative'. 
 
-A text is 'Positive' when it conveys clear or subtle expressions of happiness, satisfaction, or approval, 
-like 'The event was a joy to attend' or 'I appreciate your hard work on this'. 
-
-Texts are 'Neutral' when they provide information or facts without a strong emotional tone, even if they include minor positive or negative connotations, 
-such as 'This phone model has a larger screen'. 
-
-Texts that contain both positive and negative elements should be classified based on the most prevalent sentiment. 
-If the negative elements are not overpowering, consider the text 'Positive'. 
-
-Assign the 'Negative' label only when negative feelings like dissatisfaction or disappointment are the primary focus of the text, 
-as in 'I'm frustrated with the constant delays'. 
-
-Be particularly cautious in assessing subtle positive cues and ensure that neutral texts with minor emotive language are not misclassified 
-as 'Positive' or 'Negative'.
+PROMPT = """You are a highly skilled classification assistant. Your task is to analyze the provided text and determine its sentiment. Classify the sentiment as one of the following: 'positive', 'negative', or 'neutral'. 
 
 Please respond with just the sentiment label.
 
@@ -74,7 +61,7 @@ class RunInference:
             ],
         )
         sentiment = response["message"]["content"]
-        print("This is the sentiment: ", sentiment)
+
         sentiment = sentiment.strip()
         sentiment = sentiment.lower()
 
@@ -84,13 +71,17 @@ class RunInference:
         return sentiment
 
     def _save_results(self, current_batch_df):
-        if not os.path.exists("codeswitched_results/llama31_8b/optimized-prompt"):
-            os.makedirs("codeswitched_results/llama31_8b/optimized-prompt")
+        if not os.path.exists(
+            "codeswitched_results/llama31_8b/optimized_prompts_tuned_per_dataset"
+        ):
+            os.makedirs(
+                "codeswitched_results/llama31_8b/optimized_prompts_tuned_per_dataset"
+            )
 
         file_name = os.path.basename(self.data_path)
         file_name_without_ext = os.path.splitext(file_name)[0]
 
-        output_path = f"codeswitched_results/llama31_8b/optimized-prompt/{self.dataset_name}_{file_name_without_ext}_processed.tsv"
+        output_path = f"codeswitched_results/llama31_8b/optimized_prompts_tuned_per_dataset/{self.dataset_name}_{file_name_without_ext}_processed.tsv"
 
         results_df = pd.DataFrame(self.all_labels, columns=["prediction"])
         current_batch_df["prediction"] = results_df["prediction"][
@@ -151,18 +142,21 @@ class RunInference:
 dataset_list = [
     "Hindi-English",
     "Malyalam-English",
-    "Spanish-English",
-    "Tamil-English",
-    "Telugu-English",
 ]
 
 for dataset in dataset_list:
     DATA_PATH = f"codeswitched_datasets/{dataset}/test.tsv"
+
+    print(prompts[dataset])
     classifier = RunInference(
-        data_path=DATA_PATH, dataset_name=dataset, batch_size=50, model="llama3.1:8b"
+        data_path=DATA_PATH,
+        dataset_name=dataset,
+        batch_size=50,
+        model="llama3.1:8b",
+        prompt=prompts[dataset],
     )
 
     asyncio.run(classifier.run())
     time.sleep(
-        0
+        120
     )  # sleep let GPU throttle down and cool off before working on next dataset
