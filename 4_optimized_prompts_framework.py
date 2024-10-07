@@ -144,6 +144,9 @@ class RunInference:
 dataset_list = [
     "Hindi-English",
     "Malyalam-English",
+    "Spanish-English",
+    "Tamil-English",
+    "Telugu-English",
 ]
 
 for dataset in dataset_list:
@@ -154,7 +157,7 @@ for dataset in dataset_list:
         data_path=DATA_PATH,
         dataset_name=dataset,
         batch_size=50,
-        model="llama3.2:3b",
+        model="llama2:7b",
         prompt=prompts[dataset],
     )
 
