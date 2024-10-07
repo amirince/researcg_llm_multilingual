@@ -16,30 +16,15 @@ Please respond with just the sentiment label.
 
 {sentiment}"""
 
-TELENG_PROMPT = """You are a highly skilled classification assistant. Your task is to analyze the provided text and determine its sentiment. Classify the sentiment as one of the following: 'positive', 'negative', or 'neutral'. 
+TAM_ENG_PROMPT = """Evaluate the sentiment of the text by classifying it as 'Positive', 'Negative', or 'Neutral'. Focus on accurately identifying positive sentiment, especially in cultural idioms or fan language that are typically indicative of positivity. Detect negative sentiment effectively, even when it is obscured by sarcasm or humor. Distinguish between statements that are truly neutral and those that may carry implicit positive or negative sentiment due to subtleties in language. It is essential to avoid misclassification by not overlooking expressions of positivity or mistaking sarcasm for genuine sentiment. Your response should indicate only the sentiment category without any additional explanation.
 
 Please respond with just the sentiment label.
 
-Example 1: 
-Text: Anna yepude show complete ayindi
-Sentiment: neutral
+{sentiment}"""
 
-Example 2: How to download johaar movie in 4k Click here 👇 👇
-Sentiment: neutral
+TELENG_PROMPT = """Classify the sentiment of text as either 'Positive', 'Negative', or 'Neutral'. Focus on interpreting cultural references, slang, and colloquial language accurately to reflect the intended sentiment. Emojis should be analyzed in context, especially when used to convey irony or sentiments contrary to their usual meanings. For implicit sentiments, pay close attention to the subtleties of the language to capture the underlying emotional tone. Ensure that expressions of support or enthusiasm are recognized as 'Positive', and do not misclassify them due to their subtlety. Avoid categorizing sentiments as 'Neutral' when emotional cues exist, even if they are not immediately apparent, by delving deeper into the context to reveal the true sentiment. When a text may seem neutral on the surface but contains indicators of satisfaction or discontent, categorize it correctly as either 'Positive' or 'Negative' respectively.
 
-Example 3: 
-Text: Anna nee voice vintunte Malli inkosari video chudali anipistundhi .
-Sentiment: positive
-
-Example 4: 
-Text: @BJP4Andhra @BJP4India @ncbn @YSRCParty @JaiTDP @somuveerraju @PawanKalyan @JanaSenaParty @narendramodi Kukka ni dengunattu dengadu PK mimmalni ... aina siggu leknda vaadi madda cheekuthunnaru .... erri pookas meeku enduku raa ... egastras
-Sentiment: negative
-
-Example 5: 
-Text: @memer_habibi @OmNamaahShivaya @MeghUpdates Abe Saudi bhi Israel se dosti karna cha raha hai . Tum jaise Chut * ye hi humanity humanity chilla rahe hai . 😂 🤣 🤣 🤣 🤣 Abhi ruko Israel to pattak ke pele ga in katmullo ko . 😝 😝 😝 😝 😝
-Sentiment: negative
-
-Now, classify the following text. Please respond with only 'positive', 'negative', or 'neutral':
+Please respond with just the sentiment label.
 
 {sentiment}
 """
@@ -49,6 +34,6 @@ prompts = {
     "Hindi-English": HE_PROMPT,
     "Malyalam-English": ME_PROMPT,
     "Spanish-English": SE_PROMPT,
-    "Tamil-English": None,
-    "Telugu-English": None,
+    "Tamil-English": TAM_ENG_PROMPT,
+    "Telugu-English": TELENG_PROMPT,
 }

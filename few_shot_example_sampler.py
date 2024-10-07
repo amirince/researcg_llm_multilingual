@@ -2,7 +2,7 @@ import pandas as pd
 
 # Load the dataframe
 dataframe = pd.read_csv(
-    "codeswitched_results/llama31_8b/zero-shot/Tamil-English_test_processed.tsv",
+    "codeswitched_results/llama31_8b/zero-shot/Telugu-English_test_processed.tsv",
     delimiter="\t",
 )
 
