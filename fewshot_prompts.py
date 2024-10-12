@@ -113,11 +113,39 @@ Now, classify the following text. Please respond with only 'positive', 'negative
 {sentiment}
 """
 
+SPANENG_PROMPT = """You are a highly skilled classification assistant. Your task is to analyze the provided text and determine its sentiment. Classify the sentiment as one of the following: 'positive', 'negative', or 'neutral'. 
+
+Please respond with just the sentiment label.
+
+Example 1: 
+Text: CAN I GET A AMEN !!!!!!! LIKE DAMNNN MF HALLELUJAH !!!! Ese Guache David se la rifo #Shocked #ItsReal #TeAplaudo #Keeper
+Sentiment: positive
+
+Example 2: 
+Text: : la gente jura que uno no se cansa y estará siempre aguantando todo , mmmm not .
+Sentiment: negative
+
+Example 3: 
+Text: : #70sbaby #styling & #vestido #BCBG #mascada # #RalphLauren #zapatos … http://t.co/I04jbqVt52
+Sentiment: neutral
+
+Example 4: 
+Text: #TbT La Patria , se lleva en el alma .. .. #PuertoRico Te Amo http://t.co/nZ4HAHSfok
+Sentiment: positive
+
+Example 5: 
+Text: cuidado en Rexville plaza aparente asesinato en el Parking por popeyes .
+Sentiment: negative
+
+Now, classify the following text. Please respond with only 'positive', 'negative', or 'neutral':
+
+{sentiment}
+"""
 
 prompts = {
     "Hindi-English": HE_PROMPT,
     "Malyalam-English": ME_PROMPT,
-    "Spanish-English": None,
+    "Spanish-English": SPANENG_PROMPT,
     "Tamil-English": TAMENG_PROMPT,
     "Telugu-English": TELENG_PROMPT,
 }
