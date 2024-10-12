@@ -5,7 +5,7 @@ import ollama
 from ollama import AsyncClient
 import time
 import re
-from optimized_prompts import prompts
+from fewshot_prompts import prompts
 
 
 DATA_PATH = "data_sets/ary/test.tsv"
@@ -98,16 +98,16 @@ class RunInference:
 
     def _save_results(self, current_batch_df):
         if not os.path.exists(
-            f"codeswitched_results_re_run/{self.model_name}/optimized_prompt"
+            f"codeswitched_results_re_run/{self.model_name}/few-shot"
         ):
             os.makedirs(
-                f"codeswitched_results_re_run/{self.model_name}/optimized_prompt"
+                f"codeswitched_results_re_run/{self.model_name}/few-shot"
             )
 
         file_name = os.path.basename(self.data_path)
         file_name_without_ext = os.path.splitext(file_name)[0]
 
-        output_path = f"codeswitched_results_re_run/{self.model_name}/optimized_prompt/{self.dataset_name}_{file_name_without_ext}_processed.tsv"
+        output_path = f"codeswitched_results_re_run/{self.model_name}/few-shot/{self.dataset_name}_{file_name_without_ext}_processed.tsv"
 
         results_df = pd.DataFrame(self.all_labels, columns=["prediction"])
         current_batch_df["prediction"] = results_df["prediction"][
@@ -171,11 +171,11 @@ class RunInference:
 
 
 dataset_list = [
-    # "Hindi-English",
-    # "Malyalam-English",
-    # "Tamil-English",
-    # "Telugu-English",
-    "Spanish-English",
+    "Hindi-English",
+    "Malyalam-English",
+    "Tamil-English",
+    "Telugu-English",
+    # "Spanish-English",
 ]
 
 STEP3_PROMPT = """
@@ -207,7 +207,7 @@ for dataset in dataset_list:
     )
 
     DATA_PATH = (
-        f"codeswitched_results\llama2_7b\optimized-prompt\{dataset}_test_processed.tsv"
+        f"codeswitched_results/llama32_3b/few-shot/{dataset}_test_processed.tsv"
     )
 
     print(prompts[dataset])
@@ -215,7 +215,7 @@ for dataset in dataset_list:
         data_path=DATA_PATH,
         dataset_name=dataset,
         batch_size=50,
-        model="llama2:7b",
+        model="llama3.2:3b",
         prompt=prompts[dataset],
     )
 
