@@ -162,6 +162,10 @@ class RunInference:
 
 
 dataset_list = [
+    # "Hindi-English",
+    # "Malyalam-English",
+    # "Tamil-English",
+    # "Telugu-English",
     "Spanish-English"
 ]
 
