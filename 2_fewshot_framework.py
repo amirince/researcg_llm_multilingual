@@ -177,7 +177,7 @@ for dataset in dataset_list:
         data_path=DATA_PATH,
         dataset_name=dataset,
         batch_size=50,
-        model="llama3.2:3b",
+        model="llama3.1:8b",
         prompt=prompts[dataset],
     )
 
