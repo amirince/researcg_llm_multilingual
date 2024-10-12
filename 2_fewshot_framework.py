@@ -62,15 +62,39 @@ class RunInference:
                 },
             ],
         )
+        # Parsing sentiment from LLM response:
+        print(response)
         sentiment = response["message"]["content"]
 
         sentiment = sentiment.strip()
         sentiment = sentiment.lower()
 
-        if sentiment not in self.possible_sentiments:
-            raise ValueError("Example Misclassified!")
+        # Updated parsing logic
+        if (
+            "positive" in sentiment
+            and "negative" not in sentiment
+            and "neutral" not in sentiment
+        ):
+            return "positive"
 
-        return sentiment
+        elif (
+            "positive" not in sentiment
+            and "negative" in sentiment
+            and "neutral" not in sentiment
+        ):
+            return "negative"
+
+        elif (
+            "positive" not in sentiment
+            and "negative" not in sentiment
+            and "neutral" in sentiment
+        ):
+            return "neutral"
+
+        else:  # On missclassification raise exception
+            print(response)
+            return "NIL"
+            # raise ValueError("Example Misclassified!")
 
     def _save_results(self, current_batch_df):
         if not os.path.exists(f"codeswitched_results/{self.model_name}/few-shot"):
@@ -138,10 +162,7 @@ class RunInference:
 
 
 dataset_list = [
-    "Hindi-English",
-    "Malyalam-English",
-    "Tamil-English",
-    "Telugu-English",
+    "Spanish-English"
 ]
 
 for dataset in dataset_list:
@@ -152,7 +173,7 @@ for dataset in dataset_list:
         data_path=DATA_PATH,
         dataset_name=dataset,
         batch_size=50,
-        model="llama2:7b",
+        model="llama3.2:3b",
         prompt=prompts[dataset],
     )
 
