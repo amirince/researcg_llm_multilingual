@@ -94,7 +94,6 @@ class RunInference:
         else:  # On missclassification raise exception
             print(response)
             return "NIL"
-            # raise ValueError("Example Misclassified!")
 
     def _save_results(self, current_batch_df):
         if not os.path.exists(f"codeswitched_results/{self.model_name}/few-shot"):
@@ -162,11 +161,11 @@ class RunInference:
 
 
 dataset_list = [
-    # "Hindi-English",
-    # "Malyalam-English",
-    # "Tamil-English",
-    # "Telugu-English",
-    "Spanish-English"
+    "Hindi-English",
+    "Malyalam-English",
+    "Tamil-English",
+    "Telugu-English",
+    "Spanish-English",
 ]
 
 for dataset in dataset_list:
@@ -177,7 +176,7 @@ for dataset in dataset_list:
         data_path=DATA_PATH,
         dataset_name=dataset,
         batch_size=50,
-        model="llama3.1:8b",
+        model="llama3",
         prompt=prompts[dataset],
     )
 
