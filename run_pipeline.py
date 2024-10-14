@@ -7,8 +7,8 @@ venv_python = os.path.join("framework_lib", "Scripts", "python.exe")  # For Wind
 
 # List of script names to run
 scripts = [
-    "1_zeroshot_framework.py",
-    "2_fewshot_framework.py",
+    # "1_zeroshot_framework.py",
+    # "2_fewshot_framework.py",
     "3_optimized_prompt.py",
     "4_optimized_prompts_framework.py",
 ]
