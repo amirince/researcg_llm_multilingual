@@ -183,16 +183,18 @@ models = [
     "llama3.2_1b",
 ]
 
-for dataset in dataset_list:
-    DATA_PATH = f"codeswitched_datasets/{dataset}/test.tsv"
 
-    print(prompts[dataset])
-    classifier = RunInference(
-        data_path=DATA_PATH,
-        dataset_name=dataset,
-        batch_size=50,
-        model="llama3",
-        prompt=prompts[dataset],
-    )
+for model in models:
+    for dataset in dataset_list:
+        DATA_PATH = f"codeswitched_datasets/{dataset}/test.tsv"
 
-    asyncio.run(classifier.run())
+        print(prompts[dataset])
+        classifier = RunInference(
+            data_path=DATA_PATH,
+            dataset_name=dataset,
+            batch_size=50,
+            model=model,
+            prompt=prompts[dataset],
+        )
+
+        asyncio.run(classifier.run())
