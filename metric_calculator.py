@@ -85,15 +85,16 @@ dataset_list = [
 ]
 
 tests = [
-    "zero-shot",
-    "few-shot",
-    "optimized_prompt",
-    "optimized_prompts_tuned_per_dataset",
+    # "zero-shot",
+    # "few-shot",
+    # "optimized_prompt",
+    # "optimized_prompts_tuned_per_dataset",
+    "step_5"
 ]
 
 
-# models = ["llama2_7b", "llama3.1_8b", "llama3.2_1b", "llama3.2_3b"]
-models = ["llama3.2_1b"]
+models = ["llama2_7b", "llama3_8b", "llama3.1_8b", "llama3.2_1b", "llama3.2_3b"]
+
 for dataset in dataset_list:
     print(f"Dataset: {dataset}")
     for model in models:
